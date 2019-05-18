@@ -372,7 +372,17 @@
 		<Row>
 			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
 			<YieldType>YIELD_SCIENCE</YieldType>
-			<Yield>6</Yield>
+			<Yield>8</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>16</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ACADEMY</ImprovementType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
 		</Row>
 		<Row>
 			<ImprovementType>IMPROVEMENT_CUSTOMS_HOUSE</ImprovementType>
