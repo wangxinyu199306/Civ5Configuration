@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_2">
+         <Text>好的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_3">
+         <Text>当然。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_4">
+         <Text>知道了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_5">
+         <Text>哦，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_6">
+         <Text>我想我会的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_AGREE_SHORT_7">
+         <Text>非常好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_1">
+         <Text>你会尝到苦头的，我发誓。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_2">
+         <Text>蠢货。你将你的人民卷入了战火与毁灭。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_ATTACKED_3">
+         <Text>卑鄙的无赖！你将为此付出代价！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_1">
+         <Text>恶棍！天地必不容你。你必将灭亡！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_2">
+         <Text>我诅咒你和你们愚昧的臣民。公正的净化之火焰啊，让我们把你从大地上清除吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DECLAREWAR_3">
+         <Text>你这无知的野蛮人。你必将灭亡。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_1">
+         <Text>野蛮人胜利了，又一个伟大的文明被毁灭。暗夜降临于我们之上——熄灭了光明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DEFEATED_2">
+         <Text>愤怒和憎恶之火吞噬了我们。享受这个世界的胜利吧——下次你将付出沉重的代价！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_ANGRY">
+         <Text>如果你不满足我们的要求，我们会将正义之焰带到你的城市，将你们毁灭。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_HAPPY">
+         <Text>桑海也许能在与滋扰大地的异教徒和渣滓作战之时，寻求你的援助。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DEMANDTRIBUTE_NEUTRAL">
+         <Text>接受我们的要求，否则你将面对我们的怒火。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_1">
+         <Text>不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_2">
+         <Text>当然不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_4">
+         <Text>绝不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_5">
+         <Text>这是无法接受的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_6">
+         <Text>你在开玩笑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_DISAGREE_SHORT_7">
+         <Text>你敢再说一遍么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_1">
+         <Text>你好。我是桑海的阿斯吉亚。我们是公平的人——但是谁要和我们作对，只会难免毁灭。你最好小心点避免犯下其他人过去犯过的错误。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_2">
+         <Text>幸福与你同在。我是桑海的阿斯吉亚。我向所有人表示和平，但是必要的时候不会畏惧战争。如果你想活下去，就别让这真的必要。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_3">
+         <Text>你好。我是阿斯吉亚，桑海之王。我们是开明的人，力图与其他人和平地交流知识。然而，我们时刻准备着保卫自己的家园。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_FIRSTGREETING_4">
+         <Text>你好。我是桑海的阿斯吉亚。我们向众人表示和平。如果你想找麻烦，希望你去其他地方。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_1">
+         <Text>好了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_2">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_3">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_4">
+         <Text>下次见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_5">
+         <Text>马上滚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_6">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GOODBYE_7">
+         <Text>我们到此为止。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_1">
+         <Text>欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_2">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_3">
+         <Text>向你致意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_4">
+         <Text>好了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_5">
+         <Text>哦，是你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_6">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_GREETING_7">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_1">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_2">
+         <Text>说下去。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_3">
+         <Text>我在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_4">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_5">
+         <Text>你是这么想的？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_6">
+         <Text>然后呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LETSHEARIT_7">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_LOSEWAR_1">
+         <Text>感谢你结束这场毫无意义的战争。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_1">
+         <Text>别惹我。你不会喜欢我生气的样子。改得多一些，要不就滚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这远远不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须付出更多。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_1">
+         <Text>我无法接受。你不能再多出些吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这就是你能出的最高价码么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_HAPPY_3">
+         <Text>就差一点…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>那些想要欺骗我们的人会使自己陷入危险。请你再显出些诚意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>你能再加点价么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>这并不是很够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>几乎差不多了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_ANGRY">
+         <Text>你以为我们是傻瓜么?为你的傲慢我该杀了你。马上离开，在我改变主意之前。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_HAPPY">
+         <Text>我无法同意你的条款。它们对桑海的人民来说不公平。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_NO_NEUTRAL">
+         <Text>你的价码我无法接受。这是对我们的侮辱吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_ANGRY">
+         <Text>你的交易技巧几乎弥补了你的其它很多不足。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_HAPPY">
+         <Text>这看起来很公平。我同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADE_YES_NEUTRAL">
+         <Text>你的条件非常优厚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_ANGRY">
+         <Text>“再多一些，以便我可以更好地装备我的军队，来把你那卑劣的文明从这个星球上抹去。”</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_HAPPY">
+         <Text>你对这笔交易感兴趣吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRADEREQUEST_NEUTRAL">
+         <Text>这是个公平的交易。我希望你能够接受。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_ANGRY">
+         <Text>无耻的狗！我没有因你的无礼让你从地球上消失，庆幸吧！。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_HAPPY">
+         <Text>你应该放聪明点，别逼我太紧。我们的友谊有它的底限。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_NO_NEUTRAL">
+         <Text>你竟敢威胁我，你，这个愚蠢的异教徒?你一定是疯了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_ANGRY">
+         <Text>非常好。你会得到你所要求的一切的。但是总有一天你会付出惨重的代价，我保证！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_HAPPY">
+         <Text>我们很乐意报答我们最坚定的朋友和同盟！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_TRIBUTE_YES_NEUTRAL">
+         <Text>看起来除了接受你的要求我别无选择了。但是我们以后会找你算账的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_1">
+         <Text>你将为这次侮辱付出一千倍的代价！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_2">
+         <Text>你这是玩火自焚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_3">
+         <Text>非常好。下次我就不会这么客气了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_4">
+         <Text>真令人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_5">
+         <Text>多么令人失望啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_6">
+         <Text>真的吗?我相信你活不到后悔自己的鼠目寸光那天了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WARBLUFF_7">
+         <Text>你真是蠢货。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ASKIA_WINWAR_1">
+         <Text>你还活着只因为我们的仁慈。不会再有下次了！</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

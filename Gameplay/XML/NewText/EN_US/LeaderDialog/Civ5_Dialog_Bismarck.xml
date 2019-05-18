@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_2">
+         <Text>好的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_3">
+         <Text>当然。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_4">
+         <Text>可以。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_5">
+         <Text>哦，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_6">
+         <Text>我想我会的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_AGREE_SHORT_7">
+         <Text>非常好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_1">
+         <Text>非常好！你最终落入我的陷阱了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_2">
+         <Text>多么白痴的决定。你会为你的愚蠢付出代价。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_ATTACKED_3">
+         <Text>你这低级的恶棍！我们一定会葬送你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_1">
+         <Text>我确信你的国家对德国生死攸关的利益构成威胁。我因此决定——虽然遗憾，我向你保证——我会消灭你的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_2">
+         <Text>我们两国无可避免地会发生冲突，这已经很明朗化了。我不想等你的国家变得更强大，所以准备开战吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DECLAREWAR_3">
+         <Text>你持续的存在威胁着德国的利益。准备开战吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_1">
+         <Text>德国被毁灭了——我为后代哭泣！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_2">
+         <Text>我祝贺你的胜利。历史的力量一定是站在你那边的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_3">
+         <Text>不可思议！我，奥托 冯 俾斯麦——劳恩堡的公爵，普鲁士的宰相，德意志的第一位首相——我会被像你这样的人打败?！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEFEATED_4">
+         <Text>我祝贺你的胜利。祝你伟大的帝国千年不衰！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_ANGRY">
+         <Text>接受我们的要求，如果你希望你那可怜的小国家能苟延残喘的话。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_HAPPY">
+         <Text>德国需要你的援助，朋友。这是最符合你国家利益的抉择。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DEMANDTRIBUTE_NEUTRAL">
+         <Text>德国希望能立刻得到这些。我们的军队期待你的反馈。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_1">
+         <Text>不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_2">
+         <Text>当然不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_4">
+         <Text>绝不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_5">
+         <Text>这是无法接受的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_6">
+         <Text>你在开玩笑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_DISAGREE_SHORT_7">
+         <Text>你敢再说一遍么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_1">
+         <Text>伟大的德国人民向你问候，陌生人。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_2">
+         <Text>德国向你问好。我祈祷我们两国伟大的人民之间和平永存。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_FIRSTGREETING_3">
+         <Text>代表德国的人民，我欢迎你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_1">
+         <Text>天气不错。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_2">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_3">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_4">
+         <Text>下次见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_5">
+         <Text>滚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_6">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GOODBYE_7">
+         <Text>我们没什么可谈的了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_1">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_2">
+         <Text>你好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_3">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_4">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_5">
+         <Text>嗯?但说无妨！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_GREETING_6">
+         <Text>我该怎样感谢你的莅临？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_1">
+         <Text>说吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_2">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_3">
+         <Text>说下去。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_4">
+         <Text>我在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_5">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_6">
+         <Text>你这样想？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_7">
+         <Text>然后呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LETSHEARIT_8">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_1">
+         <Text>我们算是旗鼓相当，对吧？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_2">
+         <Text>我很高兴我们能够达成公正而荣誉的和平。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_LOSEWAR_3">
+         <Text>德国承认你的胜利。恭喜你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_1">
+         <Text>这一时代的问题不该由演讲和多数票而决定 — 那是1848和1849的错误 — 而是靠铁和血。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_2">
+         <Text>边境上的侵略军队是不会被雄辩的口才阻止的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_3">
+         <Text>上帝特别护着那些废物，醉鬼，还有美国。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_QUOTE_4">
+         <Text>两个大国因生死存亡而相争时，所有条约都将化为一纸空文。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_1">
+         <Text>不行，不行，不行！提高你的价码，否则就滚！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这远远不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须付出更多。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_ANGRY_4">
+         <Text>还差一些…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_1">
+         <Text>德国不会接受你的提议，朋友。你肯定还能出得起更高的价，对吧？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_2">
+         <Text>你能再加点价么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_3">
+         <Text>就差一点…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_HAPPY_4">
+         <Text>还差一些…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>当然不行。你的开价必须再高些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>你能再优惠些么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>还是不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>还差一些…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_ANGRY">
+         <Text>不！这绝对不可能！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_HAPPY">
+         <Text>我谨对你报以最崇高的敬意，但我们还是要谢绝您的提议。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_NO_NEUTRAL">
+         <Text>德国此刻对你这个提议毫无兴趣。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_ANGRY">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_HAPPY">
+         <Text>非常好！你表现出了伟大的智慧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADE_YES_NEUTRAL">
+         <Text>这个可以接受。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_ANGRY">
+         <Text>你应该再好好考虑考虑这个提议。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_HAPPY">
+         <Text>我相信这样的安排同时符合我们两国人民的利益，朋友。你觉得呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRADEREQUEST_NEUTRAL">
+         <Text>慷慨的德国人民为你提供了如此公平的回报。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_ANGRY">
+         <Text>来抢啊，你这自大的蠢货。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_HAPPY">
+         <Text>这种举动并不符合现在的最佳利益。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_NO_NEUTRAL">
+         <Text>德国不会向来自劣等国家的威胁弯腰的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_ANGRY">
+         <Text>你的傲慢自大毫无休止吗?我们会记住的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_HAPPY">
+         <Text>很好。我相信你将来会为德国做同样的事的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_TRIBUTE_YES_NEUTRAL">
+         <Text>很好。力量的天平是倾向你的——目前为止。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_1">
+         <Text>你这是玩火自焚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_2">
+         <Text>这样逞能是很危险的，特别是当一个人没有军队撑腰的时候。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_3">
+         <Text>那么你要我摊牌喽，嗯?恭喜你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_4">
+         <Text>多么令人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_5">
+         <Text>我们会记住这些的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WARBLUFF_6">
+         <Text>你是多么的愚蠢。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_1">
+         <Text>我相信你已经认识到，在伟大的德国面前班门弄斧是多么的愚蠢了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_2">
+         <Text>非常好。希望这给你上了一课。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_BISMARCK_WINWAR_3">
+         <Text>我很高兴你终于认识到伟大的德国的优势了。不要再惹我们！</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

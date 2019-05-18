@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_2">
+         <Text>好的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_3">
+         <Text>当然</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_4">
+         <Text>知道了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_5">
+         <Text>哦，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_6">
+         <Text>我想我必须如此。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_AGREE_SHORT_7">
+         <Text>非常好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_1">
+         <Text>你这笨得要死的家伙！你会为这一天后悔的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_2">
+         <Text>恶棍！准备面对我神圣的怒火吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_ATTACKED_3">
+         <Text>可怜的笨蛋。你将你和你可悲的文明拖入了厄运。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_1">
+         <Text>你是地球上的毒瘤。准备死吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_2">
+         <Text>你野蛮的文明令我不快。准备战争吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DECLAREWAR_3">
+         <Text>星辰告诉我。我必须消灭你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_1">
+         <Text>蠢货！神是不会被毁灭的！我神圣的力量能在一分钟内毁灭你！我保证！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_2">
+         <Text>你没有赢得任何东西。杀死我，我的灵魂会追赶你到地狱！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEFEATED_3">
+         <Text>真有趣。看起来神也会被毁灭。祝贺你获得胜利。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_ANGRY">
+         <Text>接受我们的要求，否则你会面对我神圣的怒火！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_HAPPY">
+         <Text>我的朋友，埃及郑重的接受你慷慨的礼物！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DEMANDTRIBUTE_NEUTRAL">
+         <Text>如果你希望苟延残喘，你应该满足我们的要求。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_1">
+         <Text>不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_2">
+         <Text>当然不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_4">
+         <Text>绝不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_5">
+         <Text>这是无法接受的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_6">
+         <Text>你在开玩笑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_DISAGREE_SHORT_7">
+         <Text>你敢再说一遍么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_1">
+         <Text>你好。我是拉美西斯，伟大的埃及的统治者。我同时是个神。能够靠近我显现了你非凡的勇气。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_2">
+         <Text>欢迎。我是埃及的拉美西斯。星辰预言了你的到来。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_FIRSTGREETING_3">
+         <Text>你好。我是拉美西斯神，我是埃及的化身，一切文明的父亲和母亲。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_1">
+         <Text>天气不错。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_2">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_3">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_4">
+         <Text>下次见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_5">
+         <Text>马上就走。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_6">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GOODBYE_7">
+         <Text>我们到此为止吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_1">
+         <Text>欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_2">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_3">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_4">
+         <Text>天气不错。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_5">
+         <Text>哦，是你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_6">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_GREETING_7">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_1">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_2">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_3">
+         <Text>我在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_4">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_5">
+         <Text>你是这么想的？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_6">
+         <Text>然后呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LETSHEARIT_7">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_LOSEWAR_1">
+         <Text>我本可以消灭你，你知道的，但是我今天心情特别的好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_1">
+         <Text>这就是你能提供的?很多人因为比这还少被闪电劈死了，你必须付出更多。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这远远不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须付出更多。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_1">
+         <Text>好啦:我对你的期盼很高。你一定知道你的条件并不公平——你怎么能不再增加些呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这就是你能出的最高价码么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_HAPPY_3">
+         <Text>就差一点…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>即使是神也要日常开支的，知道吗:你必须提高价码。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>你能再加点价么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>这并不是很够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>就差一点了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_ANGRY">
+         <Text>为什么我要和你交易?任何东西经你的手后都一文不值。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_HAPPY">
+         <Text>我认为你的开价还不错，我的朋友，但是我必须拒绝你。天堂提供了一切我们所需要的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_NO_NEUTRAL">
+         <Text>我是个神。你怎么会认为我需要你的任何东西？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_ANGRY">
+         <Text>很好，我看你能承诺什么。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_HAPPY">
+         <Text>你的开价取悦了我。干得好。"</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADE_YES_NEUTRAL">
+         <Text>你的价码很合理。我祝福你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_ANGRY">
+         <Text>埃及为你提供了这次机会。却因你的危险失去了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_HAPPY">
+         <Text>无所不知的拉美西斯知道你会在这项工作中找到乐趣的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRADEREQUEST_NEUTRAL">
+         <Text>慷慨的埃及为你提供以下交易。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_ANGRY">
+         <Text>在我诅咒你和你的家人和后代之前给我滚！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_HAPPY">
+         <Text>星辰显示，今天做这事很不吉利。或许明天……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_NO_NEUTRAL">
+         <Text>疯狗养的！你怎么敢以这种方式侮辱伟大的埃及！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_ANGRY">
+         <Text>哦，很好。一个神即使面对一个低级的生物也可以很慷慨。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_HAPPY">
+         <Text>你的祈祷不会毫无回应的，我最忠实的朋友！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_TRIBUTE_YES_NEUTRAL">
+         <Text>哪的话。我们很高兴回报我们忠实的仆从。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_1">
+         <Text>你这是玩火自焚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_2">
+         <Text>非常好。下一次我就不会这么客气了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_3">
+         <Text>真令人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_4">
+         <Text>多么令人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_5">
+         <Text>真的么?我确信你不会有命去后悔自己的鼠目寸光。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WARBLUFF_6">
+         <Text>你真是蠢货。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_RAMESSES_WINWAR_1">
+         <Text>不要再惹我！你下贱的恳求仁慈不会再一次拯救你。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_CREDITS_1_0_0_0 	">
+         <Text>荣誉名单</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_0_0_0 	    ">
+         <Text>游戏制作</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_0_0 	">
+         <Text>设计团队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_1_0 ">
+         <Text>文明系列创始人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_1_1 ">
+         <Text>席德 梅尔（Sid Meier）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_2_0">
+         <Text>设计</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_2_1">
+         <Text>乔恩 沙尔夫（Jon Shafer）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_0">
+         <Text>补充设计</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_1">
+         <Text>艾德 比奇（Ed Beach）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_1_3_2">
+         <Text>斯考特 刘易斯（Scott Lewis）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_0_0">
+         <Text>制作团队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_1_0">
+         <Text>制作人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_1_1">
+         <Text>丹尼斯 舍尔克（Dennis Shirk）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_2_0">
+         <Text>助理制作人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_2_1">
+         <Text>丽莎 米勒（Lisa Miller）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_0">
+         <Text>周边制作</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_1">
+         <Text>克林特 麦考尔（Clint McCaul）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_3_2">
+         <Text>米歇尔 莫纳德（Michelle Menard）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_0">
+         <Text>文字编辑</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_1">
+         <Text>米歇尔 莫纳德（Michelle Menard）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CREDITS_2_2_4_2">
+         <Text>保罗 墨菲（Paul Murphy）</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

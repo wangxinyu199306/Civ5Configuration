@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_MODDING_EULA_ACCEPT">
+         <Text>接受</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_BODY">
+         <Text>你正在进入文明V Mod数据库。 MOD是玩家们自制的软件包，用以改善你的游戏体验。 [COLOR_WARNING_TEXT]使用MOD时，责任自负。[ENDCOLOR]我们不会检查，监督，支持或担保使用者创建的内容 。使用从因特网下载的文件之前你应该采取所有的有关的防范措施。开始游戏前请阅读你的游戏手册，也可以从www.take2games.com/EULA下载相关内容。</Text>。
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_DECLINE">
+         <Text>拒绝</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_EULA_TITLE">
+         <Text>最终用户许可协定</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOAD_AGREEMENT">
+         <Text>你将要下载一个MOD或是一个玩家创建的软件包。 您仅在您自己的硬盘上使用MOD。[NEWLINE][NEWLINE]2K 游戏公司 和 Firaxis 游戏公司并不是这个MOD的创建者，并且它可能带有病毒，蠕虫，木马，记录器或者其他有害程序。[NEWLINE][NEWLINE]下载该文件就表示您承认并接受所有相关风险，并且2K游戏和Firaxis游戏公司及其从属和代理公司对您使用该文件不承担任何责任。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SELECT_CUSTOM_GAME">
+         <Text>选择一个自定义游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_NO_CUSTOM_GAMES">
+         <Text>无自定义游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SELECT_SCENARIO">
+         <Text>选择一个剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER">
+         <Text>单人游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SINGLE_PLAYER_TT">
+         <Text>开始一个打了MOD的单人游戏。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CUSTOMGAME">
+         <Text>自定义游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CUSTOMGAME_TT">
+         <Text>创建一个使用MOD的自定义游戏。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIOS">
+         <Text>剧情</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIOS_TT">
+         <Text>开始一个剧情。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MAPS">
+         <Text>建立游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MAPS_TT">
+         <Text>自定义地图。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LOADGAME">
+         <Text>读取游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SAVEDGAMES_TT">
+         <Text>读取以前的存档。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MULTIPLAYER">
+         <Text>多人游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MULTIPLAYER_TT">
+         <Text>开始一个包含MOD的多人游戏。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER">
+         <Text>选择 MODS</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER_TT">
+         <Text>选择 已安装的/网络上的 mods。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MAINMENU">
+         <Text>主菜单</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MENU_BACK">
+         <Text>返回</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SETUP_TITLE">
+         <Text>设置加载MOD的游戏</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SCENARIO_TITLE">
+         <Text>设置加载MOD的剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLED">
+         <Text>已安装</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ONLINE">
+         <Text>在线</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADS">
+         <Text>下载</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BACK" >
+		     <Text>返回</Text>
+		</Row>
+		
+		<!-- Browser -->
+		<Row Tag="TXT_KEY_MODDING_FILTER_LATEST_VERSION">
+			<Text>仅显示最新版本</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MODDING_DESCRIPTION">
+         <Text>描述</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FIRSTPAGE">
+         <Text>第一页</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_PREVPAGE">
+         <Text>上一页</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_NEXTPAGE">
+         <Text>下一页</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LASTPAGE">
+         <Text>最后一页</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ENABLEMOD">
+         <Text>启用</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DISABLEMOD">
+         <Text>关闭</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATEMOD">
+         <Text>升级更新</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADMOD">
+         <Text>下载</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DELETEMOD">
+         <Text>删除</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_MOD">
+         <Text>注销</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UNSUBSCRIBE_CONFIRM">
+         <Text>确定注销该MOD吗？这样会使MOD从您的电脑上移除。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_NEXT">
+         <Text>下一步</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_WORKSHOP">
+         <Text>获得MODS(官网)</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_WORKSHOP_TT">
+         <Text>点击打开迷雾并浏览可用的mods</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ENABLEINSTRUCTIONS">
+         <Text>在条目右边的选项框点击激活mod。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_OPTIONS">
+         <Text>选项……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_AUTOUPDATEMODS">
+         <Text>自动更新mod</Text>
+         </Row>
+		<Row Tag="TXT_KEYMODDING_SHOWDLCMODS">
+         <Text>显示DLC的mod</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SHOW_SCREENSHOT">
+         <Text>打开截图浏览器</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SCREENSHOT">
+         <Text>截图浏览器</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT">
+         <Text>举报违规</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_TITLE">
+         <Text>举报违规表格</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_REASON">
+         <Text>请选择一个举报理由:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ADD_COMMENT">
+         <Text>特别说明:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SUBMIT">
+         <Text>递交中……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_REPORT_SUBMITED">
+         <Text>感谢您递交的报告。 一名2K公司的代理将会尽快处理这个问题。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELAUTHOR">
+         <Text>作者（可多名）:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSPECIALTHANKS">
+         <Text>特别感谢:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELDOWNLOADS">
+         <Text>下载:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELRATING">
+         <Text>评级:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELUPDATED">
+         <Text>最近更新:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELVERSION">
+         <Text>版本:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELCATEGORIES">
+         <Text>类别:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSTATUS">
+         <Text>状态:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELTAGS">
+         <Text>名称:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSIZE">
+         <Text>大小:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELUPLOADEDBY">
+         <Text>上传者:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSUPPORTSSINGLEPLAYER">
+         <Text>单人？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELSUPPORTSMULTIPLAYER">
+         <Text>多人？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELAFFECTSSAVEDGAMES">
+         <Text>影响到存档？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELYES">
+         <Text>[COLOR_GREEN]是[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LABELNO">
+         <Text>[COLOR_RED]不[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_NOMODSINSTALLED">
+         <Text>未安装MOD</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_NOACTIVEDOWNLOADS">
+         <Text>没有可下载内容。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_RESULTS_EMPTY">
+         <Text>未找到MODs。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LIKE_IT">
+         <Text>喜欢它</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_LIKE_IT_TOOLTIP">
+         <Text>给一个好评。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT">
+         <Text>你喜欢它</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_YOU_LIKE_IT_TOOLTIP">
+         <Text>你和喜欢它的诸位。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_MODERATION">
+         <Text>上报</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_MODERATION_TOOLTIP">
+         <Text>举报不良内容或者侵犯服务条例的内容。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_RATING">
+         <Text>{1_Rating}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MODSTATUS">
+         <Text>Alpha|Beta|Pre-Release|Demo</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_DESCRIPTION">
+         <Text>用这个表格向我们报告违反了服务条例（ToS）的MODs。请阅读说明来查看应报告的内容，并在下拉菜单中选择最接近或最满意的理由。需更多允许或不允许的信息，请阅读我们的服务条例。 如果一个MOD被发现侵犯了服务条例，它将会被删除。 这个递交的表格是2K游戏公司服务条例中的一项。滥用这个表格 （垃圾邮件，误报，骚扰邮件） 将会导致你的账户永久性封禁。所有与提交此表格有关的信息都将被记录下来。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_NOREASON">
+         <Text>没有选定理由</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_1">
+         <Text>侵犯了版权或者商标</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_2">
+         <Text>恶意程序 （带有病毒或木马）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_3">
+         <Text>令人反感的内容</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FLAG_REASON_4">
+         <Text>其它</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_MODS">
+         <Text>安装 Mods</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_MODS_TT">
+         <Text>Mods 可以安装。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD">
+         <Text>更新 Mod</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD_TT">
+         <Text>更新mod版本至{1_Version}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_MOD_LATEST_TT">
+         <Text>更新MOD至最新版本。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_EXCLUSIVE">
+         <Text>这是个独立的mod。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_PARTIALLY_EXCLUSIVE">
+         <Text>这是个部分独立的mod。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODS_IN_USE">
+         <Text>使用中的Mod:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DEPENDENCIES_HEADER">
+         <Text>基于/引用/禁止使用</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DEPENDSON">
+         <Text>基于{1_ModName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_REFERENCES">
+         <Text>引用{1_ModName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BLOCKS">
+         <Text>禁止使用{1_ModName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_GAMEVERSION">
+         <Text>游戏版本在{1_LowVersion}和{2_HighVersion}之间</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BLOCKS_ALL_OTHER_DLC">
+         <Text>其他所有 DLC</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_NOASSOCIATIONS">
+         <Text>无</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS">
+         <Text>更新所有Mods</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_UPDATE_ALL_MODS_TT">
+         <Text>更新所有已安装的MODS至网络最新版本。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_INSTALLING">
+         <Text>正在安装 Mods……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_EXTRACTING">
+         <Text>正在解压文件……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_COPYING">
+         <Text>正在复制文件……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_VERIFYING">
+         <Text>正在校验文件……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_FINISHED">
+         <Text>完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_VALIDATING">
+         <Text>正在激活 Mods……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALLER_ERROR">
+         <Text>安装mods的过程中出现了一个错误。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADER_NOTINITIALIZED">
+         <Text>无法下载，因为 Microsoft BITS 没有运行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_NAME">
+         <Text>名字</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_DATESTARTED">
+         <Text>开始日期</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_STATE">
+         <Text>国家</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_HEADING_PROGRESS">
+         <Text>进度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_PAUSEDOWNLOAD">
+         <Text>暂停</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_RESUMEDOWNLOAD">
+         <Text>继续</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CANCELDOWNLOAD">
+         <Text>取消</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CLOSEDOWNLOAD">
+         <Text>关闭</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_0">
+         <Text>排队中</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_1">
+         <Text>连接中</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_2">
+         <Text>正在传输</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_3">
+         <Text>已停止</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_4">
+         <Text>错误</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_5">
+         <Text>警告</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_6">
+         <Text>已传输</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_7">
+         <Text>完成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADSTATUS_8">
+         <Text>已删除</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_HOVERFORDETAILS">
+         <Text>{1_DownloadStatus}（将鼠标移动到上面获取更多信息）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_PROGRESSNA">
+         <Text>n/a</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ALREADY_INSTALLED">
+         <Text>已经安装</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DOWNLOADING">
+         <Text>下载中</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_INVALIDURL">
+         <Text>无效的 URL</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_ENABLED">
+         <Text>已启用</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_TITLE">
+         <Text>Mod 标题 1</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_RECENTLY_INSTALLED">
+         <Text>最近安装的</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORIES_HEADER">
+         <Text>类别</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORIES_ALL">
+         <Text>所有</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SEARCH_TOOLTIP">
+         <Text>查找一个 mod。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_TITLE">
+         <Text>标题</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_NEWEST">
+         <Text>最新的</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_DOWNLOADS">
+         <Text>下载</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_SORT_RATING">
+         <Text>评价</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_BROWSER_TITLE">
+         <Text>Mods</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_PRIVACYPOLICY">
+         <Text>隐私声明</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_INSTALL_PROGRESS">
+         <Text>{1_ProcessedFiles}/{2_TotalFiles}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_COPYRIGHT">
+         <Text>版权（c） 2010</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_GB">
+         <Text>gb</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_MB">
+         <Text>mb</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_KB">
+         <Text>kb</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_FILESIZE_B">
+         <Text>b</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DETAILS_NOTHINGSELECTED">
+         <Text>未选择任何东西。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_GENERIC">
+         <Text>出现了一个错误。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SERVICE_DISABLED">
+         <Text>服务被禁用。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION_TIMEOUT">
+         <Text>连接超时。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_CONNECTION">
+         <Text>出现了一个连接错误。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_DATABASE_UNAVAILABLE">
+         <Text>mod 数据库暂时当机。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_ALREADY_RATED">
+         <Text>您已经评价过这个MOD了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_REQUEST_CANCELLED">
+         <Text>要求被取消。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_UNAUTHORIZED">
+         <Text>HTTP 401 错误——未经授权。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FORBIDDEN">
+         <Text>HTTP 403 错误——被禁止。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_FILE_NOT_FOUND">
+         <Text>HTTP 404 错误——未找到文件。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_REQUEST_REJECTED">
+         <Text>HTTP 4XX 错误——请求被拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_HTTP_SERVER_ERROR">
+         <Text>HTTP 5xx 错误——服务器错误。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_INCOMPATIBLE_MODS">
+         <Text>[COLOR_RED]当前激活的 mods 与这个存档不兼容。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_MODS">
+         <Text>[COLOR_RED]N未安装完所需的mods[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_MISSING_DLC">
+         <Text>[COLOR_RED]所需的DLC无效。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_ERROR_SAVE_DLC_NOT_PURCHASED">
+         <Text>[COLOR_RED]所需的DLC未购买。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_VERSION_ALREADY_ENABLED">
+         <Text>[COLOR_RED]该mod的另一个版本已激活。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_BLOCKED_BY_OTHER_MOD">
+         <Text>[COLOR_RED]该Mod与另一个mod冲突并阻止。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_MISSING_DEPENDENCIES">
+         <Text>[COLOR_RED]Mod失去相关依赖文件。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_HAS_EXCLUSIVITY_CONFLICTS">
+         <Text>[COLOR_RED]Mod由于独立性被阻止。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_MOD_BAD_GAMEVERSION">
+         <Text>[COLOR_RED]该版本游戏与此mod不匹配[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_INVALID_MAP_TITLE">
+         <Text>[COLOR_RED]{1_MapName}[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_INVALID_MAP_DESC">
+         <Text>无效的地图文件</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_1">
+         <Text>所有转换</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_5">
+         <Text>游戏规则</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_6">
+         <Text>领袖头像</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_7">
+         <Text>用户界面</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_11">
+         <Text>文明</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_12">
+         <Text>图形</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_20">
+         <Text>地形</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_23">
+         <Text>部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_32">
+         <Text>剧情</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_41">
+         <Text>地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_45">
+         <Text>地图脚本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_53">
+         <Text>城市建筑</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_57">
+         <Text>其它</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_2">
+         <Text>史实</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_3">
+         <Text>科幻</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_4">
+         <Text>奇幻</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_49">
+         <Text>史实</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_50">
+         <Text>虚构</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_8">
+         <Text>皮肤</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_9">
+         <Text>小工具</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_10">
+         <Text>其它</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_51">
+         <Text>史实</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_52">
+         <Text>虚构</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_13">
+         <Text>地形</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_14">
+         <Text>部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_15">
+         <Text>城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_16">
+         <Text>资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_17">
+         <Text>设施</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_18">
+         <Text>首领</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_21">
+         <Text>设施</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_22">
+         <Text>资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_24">
+         <Text>远古部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_25">
+         <Text>中世纪部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_26">
+         <Text>文艺复兴时代部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_27">
+         <Text>工业时代部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_28">
+         <Text>现代部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_29">
+         <Text>科幻部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_30">
+         <Text>奇幻部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_31">
+         <Text>其他部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_33">
+         <Text>远古剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_34">
+         <Text>中世纪剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_35">
+         <Text>文艺复兴时期剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_36">
+         <Text>工业时代剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_37">
+         <Text>现代剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_38">
+         <Text>科幻剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_39">
+         <Text>奇幻剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_40">
+         <Text>其他剧本</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_42">
+         <Text>史实地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_43">
+         <Text>虚构地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_44">
+         <Text>多人地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_46">
+         <Text>史实地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_47">
+         <Text>虚构地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_48">
+         <Text>多人地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_54">
+         <Text>建筑</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_55">
+         <Text>奇观</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MODDING_CATEGORY_56">
+         <Text>工程</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

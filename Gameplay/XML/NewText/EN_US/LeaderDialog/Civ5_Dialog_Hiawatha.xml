@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_2">
+         <Text>好吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_3">
+         <Text>当然了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_4">
+         <Text>成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_5">
+         <Text>噢，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_6">
+         <Text>我想我必须同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_AGREE_SHORT_7">
+         <Text>好极了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_ATTACKED_1">
+         <Text>我诅咒你永世不得超生，你的子嗣永远不得安宁！你会为此付出代价的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_ATTACKED_2">
+         <Text>你这个魔鬼的代言人！我的勇敢会让你一败涂地！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_ATTACKED_3">
+         <Text>既然你决心已定看来无需多言。不过你的勇士们会为你的愚蠢行为付出生命的代价。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DECLAREWAR_1">
+         <Text>山谷中回响着勇士们出征的信心和欲望: 准备开战吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DECLAREWAR_2">
+         <Text>我们宁肯像雄狮一样战死沙场也不愿像一条狗似的屈辱的活着——准备开战吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DECLAREWAR_3">
+         <Text>你就像地球上的瘟疫一样令人作呕——准备开战吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_1">
+         <Text>我的臣民被你征服了。我向神明祈祷你的嗜血之性已得到了最终的满足。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_2">
+         <Text>你打败了我们——我认命了。但是要记得我们的斗争精神是永远无法磨灭的！我们还会卷土重来的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEFEATED_3">
+         <Text>我们是如此的不堪一击。我们的勇气消耗殆尽; 我们的土地也是您的囊中物。希望在下一个世界中我们可以用和平之路来代替这次的刀兵相见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_ANGRY">
+         <Text>我们要求如下进贡。我的勇士们在等待你的答复。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_HAPPY">
+         <Text>我的朋友，你能在我们困难的时候对我们施以帮助吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DEMANDTRIBUTE_NEUTRAL">
+         <Text>我们要求如下进贡。最好不要拒绝我们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_1">
+         <Text>不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_2">
+         <Text>恕难从命。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_4">
+         <Text>绝对不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_5">
+         <Text>这让我们无法接受。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_6">
+         <Text>你是在开玩笑吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_DISAGREE_SHORT_7">
+         <Text>你再说一遍？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_FIRSTGREETING_1">
+         <Text>向你致敬，陌生人。我是海华沙，易洛魁的代言人。我们全力寻求和平但也决不会畏惧战争。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_FIRSTGREETING_2">
+         <Text>我是海华沙，易洛魁的统治者。我向你的到来表示欢迎，我希望我们伟大的两国人民会变成好朋友。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_FIRSTGREETING_3">
+         <Text>祝你平安。我是海华沙，带领着伟大的易洛魁部落。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_1">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_2">
+         <Text>后会有期。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_3">
+         <Text>再见了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_4">
+         <Text>下次再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_5">
+         <Text>现在你可以走了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_6">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GOODBYE_7">
+         <Text>我们的交谈结束了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_1">
+         <Text>欢迎欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_2">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_3">
+         <Text>向你致敬。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_4">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_5">
+         <Text>噢，是你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_6">
+         <Text>嗯？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_GREETING_7">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_1">
+         <Text>继续说。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_2">
+         <Text>继续讲下去。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_3">
+         <Text>我正在倾听你的意见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_4">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_5">
+         <Text>你在说什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_6">
+         <Text>然后？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LETSHEARIT_7">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_LOSEWAR_1">
+         <Text>我对你的仁慈表示感谢。但愿从今天起我们就是朋友了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_ANGRY_1">
+         <Text>如果你试图跟我们耍心计的话可太傻了。要么修改你的提议，要么给我滚蛋。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这还不够好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须变现的再好些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_HAPPY_1">
+         <Text>哈！你就像一只冬眠的熊一样懒散！别这样嘛，朋友，你能做的比这更好的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这是你能给出的最好结果了吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_HAPPY_3">
+         <Text>就快达成一致了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>耀眼的珍珠或者一些小玩意儿我们已经不再感兴趣了——你必须做的更好些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>还能开出更好的价吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>这还不够好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>差不多了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NO_ANGRY">
+         <Text>毫无疑问你把我们当傻瓜来看。滚吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NO_HAPPY">
+         <Text>你的甜言蜜语无法掩盖你想从我们眼皮底下偷盗的事实。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_NO_NEUTRAL">
+         <Text>你想让我们流落山间衣不蔽体食不果腹?你肯定不会这么做的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_YES_ANGRY">
+         <Text>我们接受了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_YES_HAPPY">
+         <Text>和你进行贸易是一种荣幸。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADE_YES_NEUTRAL">
+         <Text>这项贸易很公平。我们同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_ANGRY">
+         <Text>你最好不要拒绝我，这是我提出的价码。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_HAPPY">
+         <Text>你同意这些提议吗，我的朋友？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRADEREQUEST_NEUTRAL">
+         <Text>这些提议能引起你的兴趣吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_ANGRY">
+         <Text>愚蠢！我们宁死也不会屈服于你的淫威之下。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_HAPPY">
+         <Text>我们不能像你想象的那样慷慨，朋友。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_NO_NEUTRAL">
+         <Text>难道熊会把自己的饭份与蛇一起分享吗?门都没有。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_YES_ANGRY">
+         <Text>干得好。但我们迟早会报复你的: 我发誓。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_YES_HAPPY">
+         <Text>我们很乐意与好友一道分享物产。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_TRIBUTE_YES_NEUTRAL">
+         <Text>我们同意你的条款。但总有一天你会为你的贪婪感到后悔的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_1">
+         <Text>愚蠢至极，愚蠢至极…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_2">
+         <Text>你在引火上身啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_3">
+         <Text>很好。不过下次我的态度可不会那么好了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_4">
+         <Text>真是扫兴啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WARBLUFF_5">
+         <Text>多让人失望啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HIAWATHA_WINWAR_1">
+         <Text>有些狗在学会对主人服从之前必须要挨打。别逼我再教训你一次！</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

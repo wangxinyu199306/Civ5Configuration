@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_MAP_MESO_TITLE">
+         <Text>两河流域</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_MESO_HELP">
+         <Text>一幅较大的地图，往西跨过了尼罗河谷，往东延伸到底格里斯河和幼发拉底河流域。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

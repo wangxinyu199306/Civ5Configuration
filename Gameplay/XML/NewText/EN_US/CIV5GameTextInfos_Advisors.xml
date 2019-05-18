@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_BODY">
+         <Text>这里是建立城市的好地方，有着充足的食物和资源。要建立城市，点击屏幕左边移民部队行动面板中的[COLOR_ADVISOR_HIGHLIGHT_TEXT]建立城市[/COLOR]按钮。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_DISPLAY">
+         <Text>建立一个城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_BUILD_CITY_ACTIVATE_BUTTON">
+         <Text>找到移民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_BODY">
+         <Text>你需要建立一个城市_越快越好！尽快点击你移民的[COLOR_ADVISOR_HIGHLIGHT_TEXT]建立城市[/COLOR]按钮。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_DISPLAY">
+         <Text>建立一个城市！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURNS_BUILD_CITY_ACTIVATE_BUTTON">
+         <Text>找到移民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_BODY">
+         <Text>尝试把你的勇士派去[COLOR_ADVISOR_HIGHLIGHT_TEXT]探索新的领域[/COLOR]。当一个部队被选中时，右击一个地区让部队移动到那里。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_DISPLAY">
+         <Text>探索世界</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_FIRST_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+         <Text>找到勇士</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_BODY">
+         <Text>你有一个部队已经有一段时间没有移动过了。也许你应该把它派去[COLOR_ADVISOR_HIGHLIGHT_TEXT]探索世界[/COLOR]。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_DISPLAY">
+         <Text>探索世界！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LATER_TURN_UNIT_MOVE_ACTIVATE_BUTTON">
+         <Text>找到空闲的部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_BODY">
+         <Text>远古遗迹中有可以提升你的文明的秘密！[COLOR_ADVISOR_HIGHLIGHT_TEXT]派一个部队前往远古遗迹[/COLOR]去看看里面有什么。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_DISPLAY">
+         <Text>远古遗迹！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GO_TO_GOODY_HUT_ACTIVATE_BUTTON">
+         <Text>找到遗迹</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_BODY">
+         <Text>你的一个军事部队附近有敌人的部队。命令一个战斗部队移动到敌人占据的格来发动进攻。在战斗中，进攻方和防守方都会受到伤害，其中有一个可能会被消灭。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_DISPLAY">
+         <Text>近程战斗</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_INTRO_ACTIVATE_BUTTON">
+         <Text>找到战斗部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_BODY">
+         <Text>我们没有军事部队来保卫我们的领土。最好保持一个或者更多的军事部队守卫领土，来驱逐那些流浪的蛮族，以打消其他文明的部队偷袭的念头。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOST_ALL_MILITARY_DISPLAY">
+         <Text>需要军队来防守！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_BODY">
+         <Text>城市附近的地区需要更多的产出。[COLOR_ADVISOR_HIGHLIGHT_TEXT]生产一个工人[/COLOR]来改进你的领土。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_TRAIN_DISPLAY">
+         <Text>生产一个工人！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_BODY">
+         <Text>现在我们有了一个工人，我们可以命令他们去建设设施来提升领土的产出。[COLOR_ADVISOR_HIGHLIGHT_TEXT]把你的工人移动到高亮地区来建设一个设施。[/COLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_DISPLAY">
+         <Text>工人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_INTRO_ACTIVATE_BUTTON">
+         <Text>找到工人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_BODY">
+         <Text>工人是毫无防备的，因此在你的领土之外移动工人时要额外小心。既然我们现在只有一个城市，我们应该[COLOR_ADVISOR_HIGHLIGHT_TEXT]保证工人处于我们的领土之内[/COLOR]。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_DISPLAY">
+         <Text>保证你的工人的安全！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_PROTECT_ACTIVATE_BUTTON">
+         <Text>找到工人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_BODY">
+         <Text>我们已经有了工人，但是还没有改进任何地区。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令你的工人来建造一个设施[/COLOR]到你城市附近的地区来获得经济上的收益。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_DISPLAY">
+         <Text>工人需要工作</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_NEED_WORK_ACTIVATE_BUTTON">
+         <Text>找到工人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_BODY">
+         <Text>我想我们目前已经有了足够的工人。你也许想要在城市里生产点别的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKERS_STOP_TRAINING_DISPLAY">
+         <Text>停止生产工人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_BODY">
+         <Text>我们有一个部队快要被消灭了。受伤的部队在战斗中效率更低，也更容易被消灭，因此考虑把它移动到安全地点并且命令它[COLOR_ADVISOR_HIGHLIGHT_TEXT]为优先部队回复[/COLOR]。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_DISPLAY">
+         <Text>医疗你的部队！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UNIT_HEAL_ACTIVATE_BUTTON">
+         <Text>找到受伤的部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_BODY">
+         <Text>世界充满了危险，我们还很脆弱，很容易受到攻击。我建议你[COLOR_ADVISOR_HIGHLIGHT_TEXT]制造更多的军事部队[/COLOR];来探索或是保卫我们的文明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_MORE_MILITARY_DISPLAY">
+         <Text>需要更多的军队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_BODY">
+         <Text>你的人民不够快乐。一个[ICON_HAPPINESS_4]不满的人口是不会像满意的那样进行生产的。如果你希望让你的市民更加快乐，[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令你的工人在资源上建造设施[/COLOR]。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_DISPLAY">
+         <Text>你的人民不够快乐</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_RESOURCE_ACTIVATE_BUTTON">
+         <Text>找到资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_BODY">
+         <Text>你的人民非常[ICON_HAPPINESS_4]不满。我们的城市已经严重减缩了[ICON_PRODUCTION]产出，而且我们的部队也不能很好的作战。通过建设快乐建筑，在资源上建造设施遗迹和其他领导人之间交易资源来让你的人民更加快乐。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_VERY_UNHAPPY_DISPLAY">
+         <Text>你的人民愤怒了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_BODY">
+         <Text>我们的首都已经发展为一个喧闹的城市！也许是时候[COLOR_ADVISOR_HIGHLIGHT_TEXT]生产一个移民[/COLOR]来建立下一个城市了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BUILD_NEW_CITY_DISPLAY">
+         <Text>新的城市？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_BODY">
+         <Text>你发现了一个城邦！城邦是一个不竞争游戏胜利的小型国家。你可以通过外交和他们互动，或是直接和他们开战。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_DISPLAY">
+         <Text>城邦</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_INTRO_ACTIVATE_BUTTON">
+         <Text>找到城邦</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_BODY">
+         <Text>一个城邦需要你的援助！如果你提供援助，你可以获得对该城邦的影响力。一旦你的影响力足够高，城邦可能会给你的文明带来许多好处。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_DISPLAY">
+         <Text>一个城邦需要帮助！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_QUEST_ACTIVATE_BUTTON">
+         <Text>找到城邦</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_BODY">
+         <Text>你可以用你的移民建立新城市。为了发展，城市附近需要有一些盛产[ICON_FOOD]食物的地区。因此在[ICON_FOOD]食物资源附近建立你的城市。[COLOR_ADVISOR_HIGHLIGHT_TEXT]把你的移民移动到富饶地区来建立一个新的城市。[/COLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_DISPLAY">
+         <Text>在哪里建立城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_INTRO_ACTIVATE_BUTTON">
+         <Text>找到移民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_BODY">
+         <Text>你的移民独自处于你的边境之外，可能会被捕获。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令一个军事部队护送你的移民[/COLOR]来保护他们不受蛮族和敌对文明的侵扰。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_DISPLAY">
+         <Text>保护你的移民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SETTLER_PROTECT_ACTIVATE_BUTTON">
+         <Text>找到移民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_BODY">
+         <Text>城市和军事部队一样，也可以抵御进攻。一个城市会在力量减少到零时被占领。用军事部队在城市陷落之前消灭围城者！！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_DISPLAY">
+         <Text>围城！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_UNDER_ATTACK_ACTIVATE_BUTTON">
+         <Text>找到城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_BODY">
+         <Text>我们的都城已经完成了部队的生产。城市可以生产部队，修建建筑以及世界奇观，但是只能同时干一件事。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_FIRST_CONSTRUCTION_DISPLAY">
+         <Text>城市建设完成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_BODY">
+         <Text>一个地区同一时间内只能容纳一个军事部队。在某个军事部队的回合中它可以通过其他部队，但是不能在其他部队占据的格子中结束回合。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ONE_UNIT_PER_TILE_DISPLAY">
+         <Text>每个地区只能有一个部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_BODY">
+         <Text>我们的军事部队太多了，拖慢了我们城市的[ICON_PRODUCTION]生产。[COLOR_ADVISOR_HIGHLIGHT_TEXT]停止生产新的军事部队[/COLOR]直到我们有更多的基础设施来负担他们。。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MILITARY_UPKEEP_DISPLAY">
+         <Text>军队维护费</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_BODY">
+         <Text>你现在有了一个远程部队。远程部队可以离一个地区较远的距离之外来攻击敌人，但是他们在近战中更容易被消灭。在前线上保护好他们，这样他们可以更好地为你服务。。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_DISPLAY">
+         <Text>远程部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RANGED_UNIT_ACTIVATE_BUTTON">
+         <Text>找到远程部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_BODY">
+         <Text>你可以花费[ICON_GOLD]金钱来把过时的部队升级为新的部队。要升级一个部队，把它移动到你的领土之内，升级部队按钮就会出现。[COLOR_ADVISOR_HIGHLIGHT_TEXT]点击升级按钮[/COLOR]来升级你过时的部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_DISPLAY">
+         <Text>升级部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_UPGRADING_UNITS_ACTIVATE_BUTTON">
+         <Text>找到可升级的部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_BODY">
+         <Text>由于你的研究，从此你的军事部队获得了"登船"技能，该技能可以穿越水面。要让一个陆地部队登船，只需要命令它移动到一个水面地区即可。登船的部队是毫无防备的，因此用你的军舰来护送他们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_DISPLAY">
+         <Text>部队登船</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_EMBARKING_UNITS_ACTIVATE_BUTTON">
+         <Text>找到可以登船的部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_BODY">
+         <Text>你正在靠近的敌人部队已经修筑了防御工事。这意味着它获得了防御加成（表示为一个盾牌标志）。修筑了防御工事的敌人在一对一的战斗中很难被消灭，因此考虑在同一个回合中使用多个部队攻击。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_DISPLAY">
+         <Text>构建了防御工事的部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_FORTIFIED_UNITS_ACTIVATE_BUTTON">
+         <Text>找到战斗部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_BODY">
+         <Text>城市非常难攻占。它们不仅防备充足，而且还会反击，伤害甚至消灭进攻的部队。使用多个强力部队同时进攻来夺取城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_DISPLAY">
+         <Text>围攻城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ATTACKING_CITY_ACTIVATE_BUTTON">
+         <Text>找到战斗部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_BODY">
+         <Text>我们的国库很充裕了，我们有足够的钱可以消费。你可以用金钱来购买土地以扩张我们的领土，也可以获取对于城邦的影响力，升级部队，或是贿赂其他文明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_LOTS_OF_MONEY_DISPLAY">
+         <Text>花费金钱</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_BODY">
+         <Text>城市可以炮轰附近的敌人以伤害甚至杀死他们。[COLOR_ADVISOR_HIGHLIGHT_TEXT]命令你的城市来炮轰敌人的军队！[/COLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_DISPLAY">
+         <Text>城市炮轰</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_BOMBARD_ACTIVATE_BUTTON">
+         <Text>找到城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_BODY">
+         <Text>你可以使用鼠标右键来指引你部队的移动。选择一个部队，右击一个地区就可以让你的部队移动到那个地区。如果你按住右键，你可以看到该部队在一个回合内可以移动到哪些地区。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RIGHT_CLICK_MOVE_DISPLAY">
+         <Text>右击移动</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_BODY">
+         <Text>这里是城市界面。它允许你变动城市的建设。在这个界面你还可以花费[ICON_GOLD]金钱来购买城市周围的土地来扩张城市的领土，以及指派城市的居民到哪些地区上去工作。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_SCREEN_DISPLAY">
+         <Text>城市界面</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_BODY">
+         <Text>森林会拖慢部队的移动。进入森林地区往往会花费掉一个部队所有的行动点数。森林也会阻碍其后部队的视野。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_DISPLAY">
+         <Text>移动:森林</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_FOREST_ACTIVATE_BUTTON">
+         <Text>找到森林</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_BODY">
+         <Text>山丘会拖慢部队的移动，但是部队在山脉的视野可以穿过森林和其他山丘，获得额外的扩展。移动到山丘地区往往会消耗掉一个部队所有的行动点数。山丘会阻碍其后部队的视野。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_DISPLAY">
+         <Text>移动:山丘</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_HILLS_ACTIVATE_BUTTON">
+         <Text>找到山丘</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_BODY">
+         <Text>沼泽会拖慢部队的移动。移入沼泽往往会消耗掉一个部队所有的行动点数。在沼泽中的部队在防御时会比较弱小，因此要小心了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_DISPLAY">
+         <Text>移动:沼泽</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MARSH_ACTIVATE_BUTTON">
+         <Text>找到沼泽</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_BODY">
+         <Text>陆地部队无法穿过山脉:你必须绕过它们。山脉可以在很远处被发现。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_DISPLAY">
+         <Text>移动:山脉</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_MOUNTAIN_ACTIVATE_BUTTON">
+         <Text>找到山脉</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_BODY">
+         <Text>丛林会拖慢部队的移动。移入丛林往往会消耗掉一个部队所有的行动点数。丛林会阻碍其后部队的视野。丛林往往十分炎热潮湿，不过好像无关紧要。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_DISPLAY">
+         <Text>移动:丛林</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_JUNGLE_ACTIVATE_BUTTON">
+         <Text>找到丛林</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_BODY">
+         <Text>穿越河流会拖慢部队的行动。穿越河流往往会消耗掉一个部队所有的行动点数。部队在穿越河流进攻时将会遭到非常猛烈的抵抗，因此小心放置你的部队吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_DISPLAY">
+         <Text>移动:穿越河流</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MOVEMENT_RIVER_ACTIVATE_BUTTON">
+         <Text>找到河流</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_BODY">
+         <Text>拥有一支强大的海军是海上防卫和探索文明周边海域的唯一方法。它们甚至可以用强力的远程武器对敌人造成严重的破坏！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_DISPLAY">
+         <Text>海军部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COMBAT_NAVAL_UNIT_ACTIVATE_BUTTON">
+         <Text>找到海军部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_BODY">
+         <Text>工船允许你改良你海岸线上的鱼群和鲸鱼资源。一旦你改良了这些地点，工船就会被永久性地消耗掉。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_DISPLAY">
+         <Text>工船</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WORKER_NAVAL_UNIT_ACTIVATE_BUTTON">
+         <Text>找到工船</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_BODY">
+         <Text>攻城部队在远程轰炸城市方面非常有效，但是对于其他部队的进攻则缺乏防御，因此好好保护它们！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_DISPLAY">
+         <Text>攻城部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SIEGE_UNIT_ACTIVATE_BUTTON">
+         <Text>找到攻城部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_BODY">
+         <Text>天然奇观隐藏于世界各地。发现它们可以让你的市民更加快乐。如果你在附近修建了你的城市，你可以获得可观的收益。去探索这个世界，发现更多的奇观吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_DISPLAY">
+         <Text>天然奇观</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_DISCOVERED_NATURAL_WONDER_ACTIVATE_BUTTON">
+         <Text>找到天然奇观</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_BODY">
+         <Text>尽管你可以把你的军事部队派遣到城邦的领地内，但是它们显然不喜欢你这么做。如果你想要和一个城邦保持良好关系的话，那就让你的军队远离它们的边境。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_DISPLAY">
+         <Text>入侵！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATES_TRESPASSING_ACTIVATE_BUTTON">
+         <Text>找到入侵者</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_BODY">
+         <Text>蛮族营寨影响极坏，必须及早根除！蛮族营寨会滋生更多的野蛮人，越早铲除造成的麻烦就越少。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_DISPLAY">
+         <Text>蛮族营寨</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BARBARIAN_CAMP_ACTIVATE_BUTTON">
+         <Text>找到蛮族营寨</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_BODY">
+         <Text>对于一个生产型的文明来说，保持市民快乐尤其重要。市民会产生[ICON_HAPPINESS_4]不满度，而奢侈资源和某些建筑可以产生[ICON_HAPPINESS_1]快乐度来消除前者。试着让你的文明保持快乐以促其健康发展！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HAPPINESS_DISPLAY">
+         <Text>快乐度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_BODY">
+         <Text>我们得到了两个以上的同类奢侈资源。我们的文明将从第一个奢侈资源上获得[ICON_HAPPINESS_1]快乐度但是不会重复获得。我们可以拿额外的奢侈资源（或是其他资源）和其他文明交易到我们尚没有的。和一个友好的邻邦交易额外的奢侈资源吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_EXCESS_LUXURY_RESOURCE_DISPLAY">
+         <Text>交易奢侈资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_BODY">
+         <Text>如果你想要和一个文明或是城邦再次交涉的话，你可以点击它们城市旗帜的快捷栏来和它们交谈。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_DISPLAY">
+         <Text>联系文明或城邦</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_ACTIVATE_BUTTON">
+         <Text>找到城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_BODY">
+         <Text>点击外交面板来了解到更多关于我们和周边国家关系的事情。该面板包括了所有关于我们的外交条约和协定的重要信息。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_HOW_TO_ENGAGE_DIPLOMACY_2_DISPLAY">
+         <Text>外交面板</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_END_TURN_BODY">
+         <Text>你所有的部队都已经执行了命令，当前回合你已经无事可做了。按"下一回合"开始下一轮。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_END_TURN_DISPLAY">
+         <Text>点击下一回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_BODY">
+         <Text>明智的行动！该次攻击对你的对手造成了很大的伤害，而你的部队则未遭到太多损失。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_DISPLAY">
+         <Text>明智的进攻！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_BODY">
+         <Text>我们得好好考虑一下这次进攻;你只能对你的对手造成少量的伤害，它们却可以重创你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_DISPLAY">
+         <Text>这场进攻可能不会有好结果的</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_BODY">
+         <Text>这次进攻对双方都造成了同等的伤害。如果你在附近还有其他部队抢在敌人反扑过来之前消灭它们的话，可以考虑继续进攻。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_DISPLAY">
+         <Text>势均力敌的战斗</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_BODY">
+         <Text>明智的举动！我们消灭了我们的敌人，自己却没有受到太多的伤害！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GOOD_ATTACK_2_DISPLAY">
+         <Text>明智的进攻！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_BODY">
+         <Text>战斗不是向着我们这边的。也许我们想要在战场上取胜的话还需要进一步制订计划才行。在战斗之前先确认一下战斗结果预览！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BAD_ATTACK_2_DISPLAY">
+         <Text>并非我们发挥的时刻</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_BODY">
+         <Text>这场战斗简直是一个战场绞肉机。我们既不能获得先机，也无法重创我们的敌人。你需要派遣更多的部队来支援我们的军队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_NEUTRAL_ATTACK_2_DISPLAY">
+         <Text>势均力敌的战斗</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_BODY">
+         <Text>我们的国库耗尽了，我么需要新的[ICON_GOLD]金钱来源！没有了[ICON_GOLD]金钱，我们的研究就必须中断，我们就会落后于其他文明了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_BANKRUPTCY_DISPLAY">
+         <Text>财政危机！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_BODY">
+         <Text>该城市刚刚被占据，还不想成为我们文明的一部分，因此造成了大量的[ICON_HAPPINESS_4]不满度。如果我们在城市里修建一个法院，市民就不会如此[ICON_HAPPINESS_4]不满了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_DISPLAY">
+         <Text>被占据的城市需要法院</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RECOMMEND_COURTHOUSE_ACTIVATE_BUTTON">
+         <Text>找到被占据的城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_BODY">
+         <Text>该城市刚刚被占据，造成了大量的[ICON_HAPPINESS_4]不满度。在城市里建造一个法院将会平息他们的不满，但是我们还缺乏该项研究。研究数学可以让我们建造法院，这样他们就会成为我们文明快乐的一员了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_DISPLAY">
+         <Text>被占据的城市不满</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_RESEARCH_COURTHOUSE_ACTIVATE_BUTTON">
+         <Text>找到被占据的城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_BODY">
+         <Text>我们已经对一个城邦造成了足够的[ICON_INFLUENCE]影响力，足以成为朋友了！点击城邦可以查看我们从中获得的收益。我们的[ICON_INFLUENCE]影响力会随着时间下降，因此继续帮助这个城邦吧，或是送给他们[ICON_GOLD]作为礼物来维持我们之间的友好关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_DISPLAY">
+         <Text>看看谁交到朋友了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_STATE_FRIEND_ACTIVATE_BUTTON">
+         <Text>找到友好的城邦</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_BODY">
+         <Text>我们的部队处于敌人控制的区域之内。这意味着当你将你的部队从一个敌对部队或是城市周围的地区移动到同一个敌人相邻的另一个地区时，会消耗掉所有的行动力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_DISPLAY">
+         <Text>控制区域</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_ZONE_OF_CONTROL_ACTIVATE_BUTTON">
+         <Text>找到部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_BODY">
+         <Text>恭喜，你的文明诞生了一个伟人！这位杰出的人物可以为你做很多事:开启一个黄金时代，在地图上建设一个独特的地区设施，或是使用他们威力强大的特殊技能！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_DISPLAY">
+         <Text>伟人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_PERSON_ACTIVATE_BUTTON">
+         <Text>找到伟人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_BODY">
+         <Text>有很多方法可以成为世界上最伟大的文明从而来赢得游戏。实际上有四种途径:通过军事，科技，外交或是文化！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_WINNING_GAME_DISPLAY">
+         <Text>如何获胜！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_BODY">
+         <Text>由于你在军事上的成就，一个大军事家诞生了！大军事家可以和军事部队叠加在一起行动，为附近的部队提供巨大的加成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_DISPLAY">
+         <Text>大军事家</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_GREAT_GENERAL_ACTIVATE_BUTTON">
+         <Text>找到大军事家</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_BODY">
+         <Text>城市是非常难对付的目标，往往需要四个以上的部队才能攻占。当你通过近程攻击它们时，城市将会伤害你进攻的部队。他们也有远程的炮轰攻击来对付任何围城者。你确定要继续进行攻击吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_CITY_ATTACK_DISPLAY">
+         <Text>进攻城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_BODY">
+         <Text>移民需要2[ICON_CITIZEN]人口来建造，因此为了加速你的发展我们给你的第一个城市一个额外的[ICON_CITIZEN]人口。不过可不要当成理所当然的了;从现在起其他建立的城市只会以一个[ICON_CITIZEN]人口开始。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_DISPLAY">
+         <Text>额外人口</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_BUILD_CITY_CHEAT_ACTIVATE_BUTTON">
+         <Text>找到城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_BODY">
+         <Text>blah</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_SCREEN_DISPLAY">
+         <Text>城市界面</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_BODY">
+         <Text>在生产选择面板中选择一个部队，建筑或是奇观在城市中生产。一个城市一次只能生产一个部队。每次你的城市完成了生产，你都会收到提示来进行其他生产。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_PRODUCTION_CHOOSER_DISPLAY">
+         <Text>生产选择面板</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_BODY">
+         <Text>科技选择面板允许你选择你的文明将研究的技术。当技术研发完成后，你将会收到提示进行下一步研究。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_CHOOSER_DISPLAY">
+         <Text>科技选择面板</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_BODY">
+         <Text>科技树提供了科技的鸟瞰局面图，你可以了解到科技之间的关联。关联揭示了解锁新科技所需要研究的旧科技。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_TECH_TREE_DISPLAY">
+         <Text>科技树</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_BODY">
+         <Text>部队列表显示了由你控制的所有部队。你可以快速选择它们来找到它们在地图上的位置并且下命令。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_UNIT_LIST_DISPLAY">
+         <Text>部队列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_BODY">
+         <Text>军队概览提供了你的文明中所有部队的详细信息，以及维护这些部队的消耗和产生大军事家的进度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_MILITARY_OVERVIEW_DISPLAY">
+         <Text>军队概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_BODY">
+         <Text>城市列表显示了你的文明中所有的城市。你可以通过这个列表快速查看你的文明正在进行的工作，并且在面临战争时快速改变生产侧重。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_CITY_LIST_DISPLAY">
+         <Text>城市列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_BODY">
+         <Text>经济概览提供了你所有城市的详细信息。你可以查看你的[ICON_GOLD]金钱收入以及你花费[ICON_GOLD]金钱的地方。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_ECONOMIC_OVERVIEW_DISPLAY">
+         <Text>经济概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_BODY">
+         <Text>外交列表显示了与你有联系的所有文明和城邦以及他们的得分。点击其中的一个将会与其开始交涉。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_LIST_DISPLAY">
+         <Text>外交列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_BODY">
+         <Text>外交概览是你取得所有外交信息的门户。你可以查看文明之间的外交状况，查看现有的交易条款，以及现在可以拿来和其他文明进行交易的资源。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_DIPLOMACY_OVERVIEW_DISPLAY">
+         <Text>外交概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_BODY">
+         <Text>外交交易界面允许文明之间开始外交贸易。每一方都可以从该方的列表中选择交易内容，并且提供给另外一方作为参考。当双方都同意时，交易界面中的物品就完成交换了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_LEADER_TRADE_DIALOG_DISPLAY">
+         <Text>外交交易</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_BODY">
+         <Text>政策界面允许你为你的文明选择政策。你可以花费你累积的[ICON_CULTURE]文化点数来解锁政策。某些分支直到特定的技术时代才可以选择。当然，某些分支可以同时使用。（查看弹出的描述文本来了解哪些政策之间是冲突的。）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_SCREEN_SOCIAL_POLICY_DISPLAY">
+         <Text>政策</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL0">
+         <Text>教学</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL0_TITLE_ONLY">
+         <Text>边玩边学</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL0_DESC">
+         <Text>你是文明系列的新手？不知道该如何开始？担心那些野蛮人会在游戏开始时就把你揍得屁滚尿流？那就请让你的顾问来助你一臂之力吧！他的介绍会教给你这部游戏的所有要点，包括以下的内容。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL1_TITLE">
+         <Text>移动和探索</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL1">
+         <Text>教学1</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL1_TITLE_ONLY">
+         <Text>移动和探索</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL1_DESC">
+         <Text>探索指的是在地表（包括太空）内搜索或是旅行，以求发现资源和信息的行动。在人类历史上，对现实世界的探索在发现时代达到了顶峰，主要表现在欧洲队世界其它地区的寻求上。在当今时代，对于高新科技概念和信息的追寻继续推动者人类探索的发展。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL2_TITLE">
+         <Text>建立城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL2">
+         <Text>教学2</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL2_TITLE_ONLY">
+         <Text>建立城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL2_DESC">
+         <Text>每个文明的核心都在于它的城市以及居住在那里的市民。建立新的城市来提升你的帝国的影响力，财富和力量是游戏的核心内容。并不是每个地点都适合建立新的城市，错误的城市建设地点可能会极大的拖慢你的扩张步伐。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL3_TITLE">
+         <Text>发展城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL3">
+         <Text>教学3</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL3_TITLE_ONLY">
+         <Text>发展城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL3_DESC">
+         <Text>城市需要扩张和发展来成为文明的主要产出力量，使用工人来建设设施可以帮助它们提升影响力。发展你的城市不仅能帮助它们和世界上的其它城市对抗，也能提升它们周边土地的产出。从历史上来看，被周边城市抛在后面的城市发展会很缓慢，而且也会成为征服的对象。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL4_TITLE">
+         <Text>战斗和征服</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL4">
+         <Text>教学4</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL4_TITLE_ONLY">
+         <Text>战斗和征服</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL4_DESC">
+         <Text>有很多时候人们想要你的东西，但是却不想征得你的同意。人类历史上一直充斥着战斗，战争和征服，那些没法保卫自己免于敌人入侵的文明只能滚进历史的垃圾堆。就算你不是一个好战的人，了解战斗和如何开始一场战争也可以拯救你的文明免于灾难。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL5_TITLE">
+         <Text>基本外交</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL5">
+         <Text>教学5</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL5_TITLE_ONLY">
+         <Text>基本外交</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL5_DESC">
+         <Text>外交，交易，盟友是和你的邻居交流时比较文明的方式，熟练的外交技巧往往能让你免于陷入一场旷日持久耗费巨大的战争。历史上最成功的领导人当中有些就是外交艺术的大师;恰当的言辞往往比刀剑更加有力和致命。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_BODY">
+         <Text>我是你的科技顾问。在这一课中我将会教你如何在地图上移动你的部队。在这个过程中你将会发现远古遗迹，自然奇观，甚至是一块新的大陆！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_1_INTRO_MOVEMENT_AND_EXPLORATION_DISPLAY">
+         <Text>移动和探索</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_BODY">
+         <Text>我是你的经济顾问。在这一课中我将会教你如何运作你的城市并建立新的城市，以及哪里才是建立新城市的绝佳场所。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_2_INTRO_FOUND_CITIES_DISPLAY">
+         <Text>生产移民和建造城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_BODY">
+         <Text>我是你的经济顾问。在这一课中我将会教你如何使用工人来加强你的城市。在你的命令下你的工人将会修建贸易道路来收集[ICON_GOLD]金钱，修建设施来帮助你的城市更快地发展，生产，以及提升人民的快乐度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_3_INTRO_IMPROVING_CITIES_WITH_WORKERS_DISPLAY">
+         <Text>使用工人来发展城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_BODY">
+         <Text>我是你的军事顾问，你应该知道我为什么来这儿了吧。在这一课中我将会教你如何驱逐野蛮人并摧毁他们的营寨，以及如何攻占一个敌对文明的城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_4_INTRO_COMBAT_AND_CONQUERING_DISPLAY">
+         <Text>战斗和征服</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_BODY">
+         <Text>我是你的外事顾问。在这一课中你将会学到与其他文明和城邦展开外交的基础内容。这是一个很复杂的课题，目前我们会专注于两个重要的内容:提升对一个城邦的影响力以及和周边文明交易资源。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_TUTORIAL_5_INTRO_DIPLOMACY_DISPLAY">
+         <Text>基本外交</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TASK_LIST">
+         <Text>*目标*</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS">
+         <Text>找到{1_Num}个远古遗迹。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_1_ANCIENT_RUINS_PROGRESS">
+         <Text>探索{1_Num}个远古遗迹。（{2_Num}已探索，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL_1_COMPLETE">
+         <Text>你完成了移动和探索教学！干得好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES">
+         <Text>建立{1_Num}个城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_PROGRESS">
+         <Text>建立{1_Num}个城市。（{2_Num}已建立，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_FOUND_CITIES_COMPLETE">
+         <Text>建立{1_Num}个城市。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS">
+         <Text>发现{1_Num}个自然奇观。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_PROGRESS">
+         <Text>发现{1_Num}个自然奇观。（{2_Num}已发现，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_2_DISCOVER_NATURAL_WONDERS_COMPLETE">
+         <Text>发现{1_Num}个自然奇观。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL_2_COMPLETE">
+         <Text>你完成了建立城市教学！干得好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS">
+         <Text>用道路将{1_Num}个城市连接到你的都城。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_PROGRESS">
+         <Text>用道路将{1_Num}个城市连接到你的都城。（{2_Num}已连接，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_CONNECT_ROADS_COMPLETE">
+         <Text>用道路将{1_Num}个城市连接到你的都城。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES">
+         <Text>在{1_Num}个资源上修建设施。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_PROGRESS">
+         <Text>在{1_Num}个资源上修建设施。（{2_Num}个资源已改良，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_IMPROVE_RESOURCES_COMPLETE">
+         <Text>在{1_Num}个资源上修建设施。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS">
+         <Text>修建{1_Num}个至少产出{2_Num}部队[ICON_FOOD]食物的农场。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_PROGRESS">
+         <Text>修建{1_Num}个至少产出{2_Num}部队[ICON_FOOD]食物的农场。（{3_Num}个至少生产{2_Num}部队[ICON_FOOD]事物的农场已修建，{4_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_FARMS_COMPLETE">
+         <Text>修建{1_Num}个至少产出{2_Num}部队[ICON_FOOD]食物的农场。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES">
+         <Text>修建{1_Num}个至少有{2_Num}部队[ICON_PRODUCTION]产出的矿井。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_PROGRESS">
+         <Text>修建{1_Num}个至少有{2_Num}部队[ICON_PRODUCTION]产出的矿井。（{3_Num}个至少有{2_Num}部队[ICON_PRODUCTION]产出的矿井已修建，{4_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_3_BUILD_MINES_COMPLETE">
+         <Text>修建{1_Num}个至少有{2_Num}部队[ICON_PRODUCTION]产出的矿井。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL_3_COMPLETE">
+         <Text>你完成了发展城市教学！干得好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY">
+         <Text>攻占敌人城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_CONQUER_CITY_COMPLETE">
+         <Text>攻占敌人城市。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS">
+         <Text>摧毁{1_Num}个蛮族营寨。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_PROGRESS">
+         <Text>摧毁{1_Num}个蛮族营寨。（{2_Num}已摧毁，{3_Num}剩余）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_4_DESTROY_BARB_CAMPS_COMPLETE">
+         <Text>摧毁{1_Num}个蛮族营寨。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL_4_COMPLETE">
+         <Text>你完成了战斗和征服教学！干得好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR">
+         <Text>从一个大型文明那里交易到大理石。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_TRADE_WITH_MAJOR_COMPLETE">
+         <Text>从一个大型文明那里交易到大理石。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV">
+         <Text>通过赠送[ICON_GOLD]金钱和完成任务来和城邦结盟。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOAL_TUTORIAL_5_MOST_FAVORED_CIV_COMPLETE">
+         <Text>通过赠送[ICON_GOLD]金钱和完成任务来和城邦结盟。完成！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TUTORIAL_5_COMPLETE">
+         <Text>你完成了基础外交教学！干得好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_UNITS_LIST">
+         <Text>部队列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TERRAIN_LIST">
+         <Text>地形和地貌特征列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_IMPROVEMENT_LIST">
+         <Text>设施列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_PROMOTIONS_LIST">
+         <Text>升级列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_RESOURCES_LIST">
+         <Text>资源列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SPECIALISTS_AND_GREAT_PEOPLE">
+         <Text>专业人员和伟人列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_MINOR_CIV_LIST">
+         <Text>城邦列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_TECHNOLOGY_LIST">
+         <Text>科技列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_BUILDING_LIST">
+         <Text>建筑列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_WONDER_LIST">
+         <Text>奇观列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_SHORTCUT_SOCIAL_POLICIES">
+         <Text>政策列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_TITLE">
+         <Text>顾问建议</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_NEXT">
+         <Text>下一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_ECONOMIC_PREV">
+         <Text>上一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_NEXT">
+         <Text>下一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_MILITARY_PREV">
+         <Text>上一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_NEXT">
+         <Text>下一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_FOREIGN_PREV">
+         <Text>上一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_NEXT">
+         <Text>下一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_SCIENCE_PREV">
+         <Text>上一个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL_PAGE_DISPLAY">
+         <Text>{1_Num}/{2_Num}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_ALONE">
+         <Text>我们在附近还没有发现任何对手，因此我们应该继续探索以找到其他文明和城邦。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE">
+         <Text>我们需要更多的军事部队来防卫我们的文明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_EMPIRE_DEFENSE_CRITICAL">
+         <Text>我们几乎毫无防备！我们需要训练更多的部队！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_AT_WAR">
+         <Text>我们正处于战争之中！生产军事部队和建筑来取得胜利！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_ENOUGH_MILITARY_UNITS">
+         <Text>我们的军事维护费太高了。我们应该停止生产更多的军事部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_ERADICATE_BARBARIANS">
+         <Text>是时候请我们的野蛮人邻居们消失了。生产军事部队，用它们来摧毁营地。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_WINNING_WARS">
+         <Text>我们快要获胜了！继续施压以取得胜利！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARYAISTRATEGY_LOSING_WARS">
+         <Text>我们快要输了！我们应该考虑洽谈和平协议事宜。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON">
+         <Text>我们应该继续探索世界以发现新的远古遗迹，自然奇观，以及其他文明！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON">
+         <Text>我们已经有了足够的探险家去探索世界了。我们不应该继续生产任何新的陆地探索部队了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_RECON_SEA">
+         <Text>我们需要继续探索海洋来发现新的可移民的大陆。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_RECON_SEA">
+         <Text>我们已经探索了足够多的沿海区域。我们不应该继续派遣更多的部队去探索海洋了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_EARLY_EXPANSION">
+         <Text>我们还有扩张的空间，让我们训练一队移民来建立新的城市吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ENOUGH_EXPANSION">
+         <Text>我们应该着重于发展和提升我们已有的城市，而不是马上去建立新的城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS">
+         <Text>我们人民的[ICON_HAPPINESS_1]快乐度现在成了问题。我们需要连接奢侈资源，建造[ICON_HAPPINESS_1]提升快乐度的建筑和奇观，调整政策来使我们的文明变得快乐！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_HAPPINESS_CRITICAL">
+         <Text>我们的人非常不高兴！我们需要连接奢侈资源，建造[ICON_HAPPINESS_1]提升快乐度的建筑和奇观，调整政策来让我们的文明变得快乐！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_GROWTH">
+         <Text>我们有很多沿海城市，因此我们应该着重于修建可以提升沿海地区产出的建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_CITIES_NEED_NAVAL_TILE_IMPROVEMENT">
+         <Text>我们还有尚未利用的沿海资源。生产工船并且设置它们对我们的文明很有好处！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_FOUND_CITY">
+         <Text>我们有了一个移民，现在去找一个建立城市的好地方吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_FOOD">
+         <Text>我们的[ICON_FOOD]食物出现危机了！依靠工人来修建设施提升某个地区的[ICON_FOOD]食物产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+         <Text>我们的[ICON_PRODUCTION]生产力出现危机了！依靠工人来修建设施提升某个地格的[ICON_PRODUCTION]生产力产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES">
+         <Text>先不要修建港口，因为这需要等到我们有了两个以上的沿海城市才会发挥作用。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ONE_OR_FEWER_COASTAL_CITIES_INVERSE">
+         <Text>我们有可以利用港口连接起来的沿海城市。在这些城市中修建港口可以提供水上的商路，收集到更多的[ICON_GOLD]金钱！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_LOSING_MONEY">
+         <Text>我们需要提升我们的[ICON_GOLD]金钱收入来保持竞争力。解散过时的部队来降低我们部队的维护费，依靠工人修建设施来提升地区的[ICON_GOLD]金钱产出，或是修建可以提升[ICON_GOLD]金钱收入的建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_HALT_GROWTH_BUILDINGS">
+         <Text>我们正在修建大金字塔，因此我们就不需要在别的城市修建谷仓了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_TOO_MANY_UNITS">
+         <Text>我们的[ICON_PRODUCTION]生产力因为部队的数量被削减了。我们应该解散不需要的部队，这样我们的文明才能够满负荷地运转。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMICAISTRATEGY_ISLAND_START">
+         <Text>我们的家园位于一个小型大陆上，没有多少发展的空间了。我们需要着重于航海科技以求让我们的部队可以登船。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_SMALL_CITY">
+         <Text>你的{1_CityName:textkey}城市当前规模太小了，不适合接下这么大型的奇观建设任务。专注于将{1_CityName:textkey}发展到更大的规模，再来修建大型项目。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_LANDLOCKED">
+         <Text>{1_CityName:textkey}是内陆城市，这意味着它不可能接触到水面。因此比起鲨鱼你更应该小心熊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_TILE_IMPROVERS">
+         <Text>{1_CityName:textkey}需要工人来改进附近的地区。我们应该在{1_CityName:textkey}训练一个工人派遣他们来改进附近的地形。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_WANT_TILE_IMPROVERS">
+         <Text>{1_CityName:textkey}会因为周边地区的改进收益颇丰。考虑一下生产一个工人来帮助它脱离困境。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_TILE_IMPROVERS">
+         <Text>我不认为{1_CityName:textkey}目前还需要生产更多的工人。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_GROWTH">
+         <Text>{1_CityName:textkey}有着相当部分的水域。我们应该着重于修建，例如渔场之类的提升水域产出的建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_NAVAL_TILE_IMPROVEMENT">
+         <Text>{1_CityName:textkey}在水域有尚未利用的资源;我们应该用工船去在这个资源上修建设施！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_ENOUGH_NAVAL_TILE_IMPROVEMENT">
+         <Text>{1_CityName:textkey}所有的水面资源都已经加以利用了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_FOOD">
+         <Text>{1_CityName:textkey}需要[ICON_FOOD]食物才能成长为更大规模的城市。用你的工人在附近修建农场。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_NEED_IMPROVEMENT_PRODUCTION">
+         <Text>{1_CityName:textkey}需要[ICON_PRODUCTION]生产力来更快地修建建筑。用你的工人在附近修建矿井。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_HAVE_TRAINING_FACILITY">
+         <Text>{1_CityName:textkey}有加强军队生产的建筑。我们应该在{1_CityName:textkey}生产更多的部队加强我们的军队以期达到更高的效率。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_NEED_SETTLER">
+         <Text>{1_CityName:textkey}已经准备好生产一个移民来扩张我们的帝国了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_CAPITAL_UNDER_THREAT">
+         <Text>注意守卫{1_CityName:textkey}，我们的都城。该地区已经出现了敌人，我们需要准备抵御敌人的进攻。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_AICITYSTRATEGY_UNDER_BLOCKADE">
+         <Text>敌人准备封锁{1_CityName:textkey}了！使用城市中的远程攻击和附近的船只来赶走那些可能封锁你的敌人船只。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS">
+         <Text>我们应该研究{1_TechName:textkey}来解锁一项独特的{2_Adjective:textkey}文明奖励！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_UNIT">
+         <Text>我们应该研究{1_TechName:textkey}以生产{@2_UnitName}，这将会是我们{3_Adjective:textkey}独有的部队！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_BUILDING">
+         <Text>我们应该研究{1_TechName:textkey}以修建{@2_BldgName}，这将会使我们{3_Adjective:textkey}文明独有的建筑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECHSTRATEGY_CIV_BONUS_IMPROVEMENT">
+         <Text>我们应该研究{1_TechName:textkey}这样我们就能建造{@2_BldgName}了，可以为我们的{3_Adjective:textkey}文明提供独一无二的好处！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECHSTRATEGY_RESOURCE">
+         <Text>我们应该研究{1_TechName:textkey}以为我们的{2_ResourceName:textkey}修建改善设施。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_WAR">
+         <Text>我建议你立即和{1_LongCivName:textkey}商讨和平事宜;他们已经威胁到了我们的生存！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DESTRUCTION_PEACE">
+         <Text>我们应该明智地不要去惹怒{1_LongCivName:textkey}。他们比我们强大很多，因此还是敬而远之为好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_WAR">
+         <Text>我们和{1_LongCivName:textkey}的关系相处的并不好。我们应该考虑提出和平来终止敌对的关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_DEFEAT_PEACE">
+         <Text>{1_LongCivName:textkey}军事上比我们强大许多，在这个节骨眼上和他们开战可不是个好主意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_STALEMATE_WAR">
+         <Text>我们和{1_LongCivName:textkey}势均力敌;战争对我们的勇气将会是个考验。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_WAR">
+         <Text>我们和{1_LongCivName:textkey}之间的战争进行的很顺利，我们的战斗力比他们要强大。继续施压我们就能取得胜利了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_GOOD_PEACE">
+         <Text>{1_LongCivName:textkey}在军事上比我们弱小。如果我们对他们有什么要求的话，现在正是提出的好时机。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_WAR">
+         <Text>在数量上，我们可以轻而易举地压垮{1_LongCivName:textkey}！在他们用巧妙的外交技巧逃脱之前快速行动。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARPROJECTION_VERY_GOOD_PEACE">
+         <Text>我们的军队远比{1_LongCivName:textkey}的要强大。我并不是说我们应该欺负他们，但是我们应该果断地利用我们的势力为我们伟大的王国服务！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_MEDIUM">
+         <Text>嗯，这很有趣。我们已经观察到了{1_LongCivName:textkey}的部队在我们的边境地区移动。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_HIGH">
+         <Text>我们观察到有大量{1_LongCivName:textkey}的部队在我们的边境附近移动。他们也许是计划着要进攻。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_AGGRESSIVE_POSTURE_INCREDIBLE">
+         <Text>这可不好。{1_LongCivName:textkey}在我们的边境集结了一股庞大的军队！我们应该立刻准备好防范偷袭。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_MEDIUM">
+         <Text>{1_LongCivName:textkey}的扩张已经接近我们的领土了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_HIGH">
+         <Text>{1_LongCivName:textkey}似乎吞并了我们城市附近的许多领土。我们应该和他们讨论一下这个问题。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_EXPANSION_AGGRESSIVE_POSTURE_INCREDIBLE">
+         <Text>贪婪的{1_CivName:textkey}似乎想要用他们的边境压垮我们的城市！我们必须赶快处理这个问题，不然就只有一战了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_NONE">
+         <Text>{1_LongCivName:textkey}和其他文明之间的关系非常好。我敢确定他们一定在计划着什么！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MINOR">
+         <Text>{1_LongCivName:textkey}和其他文明之间的关系非常差。我们应该对他们保持警惕。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_MAJOR">
+         <Text>我觉得{1_LongCivName:textkey}属于那种到处欺负小文明和城邦的恃强凌弱的恶霸。妈妈告诉我对付恶霸最好的办法就是对着他眉心给他一拳！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_SEVERE">
+         <Text>{1_LongCivName:textkey}什么人都会攻击！把女人和小孩藏起来，保护好我们的都城，不要让他们彻底胜利！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_WARMONGER_THREAT_CRITICAL">
+         <Text>{1_LongCivName:textkey}充满了杀戮的欲望！它之前进攻过了周边那么多国家，再要进攻我们只是时间问题！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_PATHETIC">
+         <Text>我不清楚{1_LongCivName:textkey}有没有军队。任何针对他们的战争完全都是一边倒的情况。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_WEAK">
+         <Text>我想我们看到的部队就是{1_LongCivName:textkey}所仅有的了。真是形单影只啊。如果他们和有着我们这样的势力的国家开战的话，那可真是人间悲剧啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POOR">
+         <Text>{1_LongCivName:textkey}的军队并不如我们强大，但是我们在外交上也不应该过多地玩弄他们;他们会觉得受到威胁的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_AVERAGE">
+         <Text>{1_LongCivName:textkey}的军队和我们的差不多强大。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_STRONG">
+         <Text>{1_LongCivName:textkey}的军队比我们的强大。我们在经过深思熟虑和军事发展之前不应该和他们陷入战争。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_POWERFUL">
+         <Text>{1_LongCivName:textkey}可不容轻视。他们的军队比我们强大，我们只在最危急的关头才应该考虑动用军事手段。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MILITARY_STRENGTH_COMPARED_TO_US_IMMENSE">
+         <Text>{1_LongCivName:textkey}的军队足以把我们从地球上扫荡出去。尽一切可能和他们保持和平，并且尽快建设军队来缓解我们当前的状况。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_WEAK">
+         <Text>{1_LongCivName:textkey}已经为了{2_MinorCivName:textkey}盟约而和我们展开竞争了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_STRONG">
+         <Text>{1_LongCivName:textkey}为了{2_MinorCivName:textkey}结盟竞争地非常激烈。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_MINOR_CIV_DISPUTE_LEVEL_FIERCE">
+         <Text>{1_LongCivName:textkey}正在暗中积极破坏我们和{2_MinorCivName:textkey}的关系！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_MAINTENANCE">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是部队维护费。删除任何不必要的部队！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_UNIT_SUPPLY">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是供给部队的花费，即维持境外部队的花费。把这些部队移回我们的边境或者删除他们;必须尽快解决这个财政问题！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_BUILDING_MAINTENANCE">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是建筑维护费。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_IMPROVEMENT_MAINTENANCE">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是设施维护费。我们不应该建造不需要的设施了，毁掉那些不再有用的设施。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN_DIPLOMACY">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是外交协议。我们有机会就不要再续签这些协议了，也可以签下新的协议帮我们赚取[ICON_GOLD]金钱而不是消费它们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_DOWN">
+         <Text>我们财政出现了危机，赚不到任何钱了！我们必须尽一切努力摆脱债务！我们通过外交手段获得的任何现金都可以帮助我们度过短期的财政困难。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_MAINTENANCE">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是部队维护费。删除任何不必要的部队，我们就可以把危机扭转回来！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_UNIT_SUPPLY">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是供给境外部队的花费。把这些部队移回边境内或是删除它们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_BUILDING_MAINTENANCE">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是建筑维护费。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_IMPROVEMENT_MAINTENANCE">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是设施维护费。我们应该停止修建设施并且移除不需要的设施。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP_DIPLOMACY">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。我们当前最大的花费（花费{1_Num}[ICON_GOLD]金钱每回合）是外交协议。我们有机会就不要再续签那些协议了，或是签下新的协议帮助我们赚取[ICON_GOLD]金钱而不是花费它们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_BROKE_AND_GOING_UP">
+         <Text>我们的财政出现了危机，但是还能赚到部分钱。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_MAINTENANCE">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们最大的花费是部队维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑一下删除任何过时的或是不需要的部队来避免破产。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_UNIT_SUPPLY">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们最大的花费是供给部队（维持境外部队的花费），每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑把这些部队移回我们的领土或者删除那些不必要的来避免破产。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_BUILDING_MAINTENANCE">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们最大的花费是建筑维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_IMPROVEMENT_MAINTENANCE">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们最大的花费是设施维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑修建更少的设施或是移除那些不再有用的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE_DIPLOMACY">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们最大的花费是外交协议，每回合花费我们{1_Num}[ICON_GOLD]金钱。我们有机会就不要再续签那些协议了，或是签下新的协议帮助我们赚取[ICON_GOLD]金钱而不是花费它们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_GOING_BROKE">
+         <Text>以我们当前的[ICON_GOLD]金钱消费，我们将会在几轮之内破产。我们需要着重于扭转我们的经济形势避免破产的窘境！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_MAINTENANCE">
+         <Text>我们还有钱，但是我们的支出大于收入。我们目前最大的花费是部队维护费，每回和花费我们{1_Num}[ICON_GOLD]金钱。考虑删除任何过时或是不必要的部队，这样我们就可以赚钱而不是亏损了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_UNIT_SUPPLY">
+         <Text>我们还有钱，但是我们的支出大于收入。我们目前最大的花费是部队供给，每回和花费我们{1_Num}[ICON_GOLD]金钱。考虑把这些部队移回我们的领土来减少我们在这方面的开销。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_BUILDING_MAINTENANCE">
+         <Text>我们还有钱，但是我们的支出大于收入。我们目前最大的花费是建筑维护费，每回和花费我们{1_Num}[ICON_GOLD]金钱。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_IMPROVEMENT_MAINTENANCE">
+         <Text>我们还有钱，但是我们的支出大于收入。我们目前最大的花费是设施维护费，每回和花费我们{1_Num}[ICON_GOLD]金钱。考虑修建更少的设施或是移除那些不再有用的设施。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY_DIPLOMACY">
+         <Text>我们还有钱，但是我们的支出大于收入。我们目前最大的花费是外交协议，每回和花费我们{1_Num}[ICON_GOLD]金钱。考虑在将来解除那些协议或是签下其他的外交协议来给我们的文明带来更多的[ICON_GOLD]金钱收入！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_LOSING_MONEY">
+         <Text>我们还有钱，但是我们的支出大于收入。我们需要着重于扭转我们的经济防止陷入破产的窘境！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_MAINTENANCE">
+         <Text>我们正在赚钱！我们当前最大的花费是部队维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑删除任何过时或是不必要的部队，这样就可以赚取更多的钱了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_UNIT_SUPPLY">
+         <Text>我们正在赚钱！我们当前最大的花费是部队供给，每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑把这些部队移回我们的领土来减少在这方面的开销。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_BUILDING_MAINTENANCE">
+         <Text>我们正在赚钱！我们当前最大的花费是建筑维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_IMPROVEMENT_MAINTENANCE">
+         <Text>我们正在赚钱！我们当前最大的花费是设施维护费，每回合花费我们{1_Num}[ICON_GOLD]金钱。只在那些我们可以加以利用的资源上建立设施，不然我们的花费可能会失去控制。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY_DIPLOMACY">
+         <Text>我们正在赚钱！我们当前最大的花费是外交协议，每回合花费我们{1_Num}[ICON_GOLD]金钱。考虑在将来解除这些协议或是签下新的协议来给我们的文明带来更多的[ICON_GOLD]金钱收入！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_FINANCESTRATEGY_MAKING_MONEY">
+         <Text>我们正在赚钱！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY">
+         <Text>如果我们还不做些什么的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。我们在这段关系上努力了很久，因为一时的疏忽丢掉了盟友就太可惜了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_WAR_WITH_MAJOR">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们需要人帮助对抗{2_LongCivName:textkey};如果我们和该文明宣战的话我们就能和他们继续保持同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_ROUTE">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们修建一条联通我们的都城和他们的城市的道路;如果我们做到了我们就能继续保持同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CAMP">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们摧毁附近的一个蛮族营寨;如果我们做到了我们就能继续保持同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONNECT_RESOURCE">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们连接{2_ResourceName:textkey};如果我们做到了我们就能获得更多的影响力维持我们的同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CONSTRUCT_WONDER">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们修建{@2_BldgName};如果我们做到了我们就能获得更多的影响力来维持我们的同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_GREAT_PERSON">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们获得{@2_UnitName};如果我们做到了我们就能获得更多的影响力来维持我们的同盟关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_KILL_CITY_STATE">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。他们想要我们为他们干一些脏活，打败{2_MinorCivName:textkey};这么做会激怒其他势力，但是会维持我们之间的同盟。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_PLAYER">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。如果我们想要维持同盟关系，我们可以尝试着探索和联系{2_LongCivName:textkey}以获取更多的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_FIND_NATURAL_WONDER">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。如果我们能找到一个自然奇观的话，我们可以轻易地获取更多的影响力来维持我们的同盟关系。那么开始探索吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_ALLY_QUEST_CLEAR_BARBARIANS">
+         <Text>如果我们还不施加影响力的话，我们就要失去和{1_MinorCivName:textkey}的同盟关系了。如果我们想要维持同盟关系，需要消灭处于或者邻近他们领土的野蛮人。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。如果你认为这段关系值得挽救的话，就应该做出更多的行动来提升我们对他们的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_WAR_WITH_MAJOR">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们需要帮助对抗{2_LongCivName:textkey};如果我们对该文明宣战我们就可以继续做朋友。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_ROUTE">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们希望我们用道路联通我们的都城和他们的城市;如果我们做到了我们就可以继续做朋友。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CAMP">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们想要我们摧毁附近的一个野蛮人营地;如果我们做到了我们就可以继续做朋友。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONNECT_RESOURCE">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们希望我们连接{2_ResourceName:textkey};如果我们这么做我们就可以获得更多的影响力以维持友谊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CONSTRUCT_WONDER">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们希望我们修建{@2_BldgName};如果我们这么做我们就可以获得更多的影响力维持友谊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_GREAT_PERSON">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们希望我们获得{@2_UnitName};如果我们这么做我们就可以获得更多的影响力维持友谊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_KILL_CITY_STATE">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。他们希望我们为他们干些脏活击败{2_MinorCivName:textkey};这么做会激怒其他势力，但是可以维持我们的友谊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_PLAYER">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。如果我们想要维持友谊的话，我们可以尝试探索和联系{2_LongCivName:textkey}来获取更多的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_FIND_NATURAL_WONDER">
+         <Text>如果我们不快点行动的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。如果我们能发现一个自然奇观的话，我们可以轻易地获取影响力来维持友谊。那么快去探索吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_ALMOST_LOST_CITY_STATE_FRIENDSHIP_QUEST_CLEAR_BARBARIANS">
+         <Text>如果我们再不获得影响力的话，我们就要失去和{1_MinorCivName:textkey}的友谊了。如果我们想要维持这段友谊，就去消灭那些处于或者临近他们领土的野蛮人吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE">
+         <Text>如果我们送给{1_MinorCivName:textkey}一些钱或者部队的话，我们可以获得对他们的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_WAR_WITH_MAJOR">
+         <Text>如果我们想要提升和{1_MinorCivName:textkey}的关系的话，他们正好需要帮助对抗{2_LongCivName:textkey}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_ROUTE">
+         <Text>用我们的工人修建一条从我们的都城到{1_MinorCivName:textkey}的道路可以提升我们之间的关系。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CAMP">
+         <Text>如果我们摧毁{1_MinorCivName:textkey}附近的蛮族营寨的话，我们可以获得对其的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONNECT_RESOURCE">
+         <Text>想要获得对{1_MinorCivName:textkey}的影响力，我们可以连接{2_ResourceName:textkey}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CONSTRUCT_WONDER">
+         <Text>想要获得对{1_MinorCivName:textkey}的影响力，我们可以修建{@2_BldgName}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_GREAT_PERSON">
+         <Text>{1_MinorCivName:textkey}会对我们印象深刻，如果我们能弄到一个{@2_UnitName}的话。因此这就开始吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_KILL_CITY_STATE">
+         <Text>{1_MinorCivName:textkey}想要我们去消灭{2_MinorCivName:textkey}！我们为什么要那么做？听起来很残忍，不过我确信一定有充足的理由。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_PLAYER">
+         <Text>{1_MinorCivName:textkey}想要我们联系{2_CivName:textkey}。如果我们在探索的过程中发现了它们将会给我们带来影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_FIND_NATURAL_WONDER">
+         <Text>找到自然奇观将会带来对于{1_MinorCivName:textkey}的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_BEFRIEND_CITY_STATE_QUEST_CLEAR_BARBARIANS">
+         <Text>消灭处于或者邻近{1_MinorCivName:textkey}领土的野蛮人将会给我们带来对其的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOSTRATEGY_LIBERATE_CITY_STATE">
+         <Text>{1_MinorCivName:textkey}被{2_LongCivName:textkey}占领了。如果我们能去占领并且解放这个城市的话，我们就可以重建{3_MinorCivName:textkey}城邦，并会对其产生极大的影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO">
+         <Text>我们的文明将会生产{1_Num}[ICON_RESEARCH]科研点数，而我们有{2_Num}[ICON_CITIZEN]人口。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_POORLY">
+         <Text>我们的文明将会生产{1_Num}[ICON_RESEARCH]科研点数，而我们有{2_Num}[ICON_CITIZEN]人口。我们应该着重于通过建设图书馆和大学类的研究型建筑来提升我们的研究能力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_INFO_DOING_WELL">
+         <Text>我们的文明将会生产{1_Num}[ICON_RESEARCH]科研点数，而我们有{2_Num}[ICON_CITIZEN]人口。效率很高啊！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_BANKRUPT">
+         <Text>我们的研究因为缺乏[ICON_GOLD]金钱而中断了。没有了研究资金，我们将会远远落在后面，只能在历史中出现了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_1">
+         <Text>如果我们研究{1_TechName:textkey}的话，我们将获得在城市中修建{@2_BldgName}的能力。我们可以把我们的研究推动到新的高度！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_2">
+         <Text>如果我们研究{1_TechName:textkey}的话，我们将获得在城市中修建{@2_BldgName}和{@3_BldgName}的能力。我们可以把我们的研究推动到新的高度！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_TECH_THAT_PROVIDES_SCIENCE_BUILDING_3">
+         <Text>如果我们研究{1_TechName:textkey}的话，我们将会获得在城市中修建{@2_BldgName}，{@3_BldgName}和{@4_BldgName}的能力。这可是相当多的研究型建筑了啊！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_BUILDING_IN_BIG_CITY">
+         <Text>{1_CityName:textkey}的人口规模已经非常大了，开始缺乏{@2_BldgName}。如果我们在那里修建一个{@3_BldgName}的话，我们将会极大地提升我们的[ICON_RESEARCH]科研点数产出，使得研究速度显著提升。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_UNITS">
+         <Text>如果我们研究{1_TechName:textkey}的话，我们就可以生产{@2_UnitName}了。拥有现代军队是安全有效进攻的保障。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SCIENCESTRATEGY_RESEARCH_MILITARY_BUILDING">
+         <Text>如果我们研究{1_TechName:textkey}的话，我们就可以建造{@2_BldgName}了，该建筑在建造之后可以给所在城市中制造的部队提供升级。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_ZERO">
+         <Text>我们没有任何{1_ResourceName:textkey}，而在{2_CityName:textkey}附近就有一个资源。派一个工人在那里修建设施这样我们就可以取得该种资源了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYIMPROVEMENTSTRATEGY_PLUG_UP_RESOURCES_HAVE_MORE">
+         <Text>有一个{1_ResourceName:textkey}资源位于{2_CityName:textkey}附近。我们已经有这种资源了，但是我们可以拿额外的资源来做外交交易。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_LUXURIES">
+         <Text>我们有额外的{1_ResourceName:textkey}可以用来交易，而{2_LongCivName:textkey}却没有。我们应该尝试着和他们签订协议。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_RESOURCESTRATEGY_TRADE_STRATEGIC">
+         <Text>我们有额外的{1_ResourceName:textkey}可以用来交易，而{2_LongCivName:textkey}却没有。仔细考虑一下要不要给他们这种资源，因为我们用来交换的资源最终还是会被用来对付我们自己。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_ECONOMIC">
+         <Text>请原谅我;我很抱歉我现在不能提供多少建议。也许你应该修建更多的城市？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_MILITARY">
+         <Text>生产更多的部队！不然的话，我就没什么建议可以提供了。等会儿再问也许我能想起更多的东西。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_SCIENCE">
+         <Text>现在我智慧的源泉暂时枯竭了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BASESTRATEGY_NOTHING_TO_SAY_FOREIGN">
+         <Text>揣测一下我们的敌人正在计划什么，不过不要太过分了。如果你把事情都做了我可就要失业了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_ECONOMIC">
+         <Text>我想既然我们的文明还没有城市，那么建立一座将会对我们很有好处。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_MILITARY">
+         <Text>建立一座城市，以开始生产更多的军事部队！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_SCIENCE">
+         <Text>我们能修一座城市好让我找个地方放一放我的装备吗？我的武器都快要把我拖死了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_A_CITY_MCFLY_FOREIGN">
+         <Text>要开始一段外交关系，我们应该建立一座城市，这样别的文明才知道如何找到我们交流。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_TITLE">
+         <Text>战斗信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_CONFIRM">
+         <Text>我就是想要进攻</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_CANCEL">
+         <Text>让我再想想</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_MODAL_DONT_SHOW_ME_AGAIN">
+         <Text>多谢你的信息，但是不要再提醒我了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_DONT_SHOW_AGAIN">
+         <Text>请不要再对我说这个了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_INFORMATION">
+         <Text>顾问信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ADVISOR_COUNSEL">
+         <Text>顾问建议</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_MILITARY">
+         <Text>你的军事顾问建议在这里修建建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_ECONOMIC">
+         <Text>你的经济顾问建议在这里修建建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_FOREIGN">
+         <Text>你的外事顾问建议在这里修建建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CONSTRUCTION_ADVISOR_RECOMMENDATION_SCIENCE">
+         <Text>你的科技顾问建议在这里修建建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_MILITARY">
+         <Text>你的军事顾问建议研究这项科技。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_ECONOMIC">
+         <Text>你的经济顾问建议研究这项科技。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_FOREIGN">
+         <Text>你的外事顾问建议研究这项科技。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TECH_CHOOSER_ADVISOR_RECOMMENDATION_SCIENCE">
+         <Text>你的科技顾问建议研究这项科技。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BEGIN_GAME_BUTTON">
+         <Text>开始征程</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BEGIN_GAME_BUTTON_CONTINUE">
+         <Text>继续你的征程</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

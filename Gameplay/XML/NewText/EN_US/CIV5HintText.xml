@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_HINT_13">
+         <Text>遭受攻击时，一个良好的道路交通网将起到十分重要的作用。例如，在恰当条件下，若拥有两个行动力的部队被部署在公路上，那么他们可以在一回合内向前移动，攻击敌人，再撤退到己方更强部队后。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_14">
+         <Text>事实上，在没有额外守城部队驻扎城外的情况下，三个中等强力的部队可以占领任何类型，任何规模的城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_2">
+         <Text>通过建造庙宇，剧场以及其他文化建筑来获得高级内政法令。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_3">
+         <Text>一个文明的辖区永远属于该文明。夺取该地区控制权的唯一方法是摧毁或者占领管辖该地区的城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_6">
+         <Text>侦察部队拥有比任何早期部队多一格视野的优势。这使得他们成为最值得信赖的警卫。除了探索世界之外，将他们部署在帝国周围的小山上也不失为一个好选择。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_7">
+         <Text>永远不要拿鸡蛋碰石头，刀是怎么也无法跟枪拼的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_HINT_8">
+         <Text>密切注意帝国的快乐指数。当快乐指数偏低时，在未再次获得增加快乐指数的资源之前，帝国将会停止发展。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_2">
+         <Text>好吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_3">
+         <Text>当然了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_4">
+         <Text>成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_5">
+         <Text>噢，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_6">
+         <Text>我想我必须同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_AGREE_SHORT_7">
+         <Text>好极了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_1">
+         <Text>好极了。我们必有一战了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_2">
+         <Text>我赞赏你的勇气——抛开你的判断力不谈。我希望你能比你看起来的更像个称职的对手。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_3">
+         <Text>真的?我想我早就厌倦了和平和无所事事了。让我们开始吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_ATTACKED_4">
+         <Text>你这个愚蠢的野蛮人。我来葬送你吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_1">
+         <Text>你已经没有利用价值了。洗干净脖子等着被消灭吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_2">
+         <Text>你对我来说太碍事了。你必须消失。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DECLAREWAR_3">
+         <Text>上帝启示我让我征服全世界。因此你必须去死。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_1">
+         <Text>我被击败了?怎么会有这种事呢?我——我可是上帝的继承者啊！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_2">
+         <Text>你毁了我，你为你自己在众神之间赢得了一席之地。我祝贺你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_3">
+         <Text>你竟然打败了我?这是真的吗?你究竟是何方神圣？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEFEATED_4">
+         <Text>我被打败了。我为你的胜利祝福。我请求你对我的臣民仁慈些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_ANGRY">
+         <Text>如果你想继续苟活下去，你最好接受我们的要求。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_HAPPY">
+         <Text>我的朋友，希腊需要你的帮助。请你不要让我们失望！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DEMANDTRIBUTE_NEUTRAL">
+         <Text>我相信你会马上满足我们这些要求。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_1">
+         <Text>我必须拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_2">
+         <Text>不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_3">
+         <Text>当然不可能。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_4">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_5">
+         <Text>当然不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_6">
+         <Text>无法接受。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_7">
+         <Text>你在开玩笑吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_DISAGREE_SHORT_8">
+         <Text>你能再说一遍吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_1">
+         <Text>我，亚历山大，赫拉和宙斯的子嗣，来接见你。但愿你是位坚定不移的盟友，或者值得放手一搏的劲敌！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_2">
+         <Text>很高兴见到你！我是亚历山大，众王之子，众神之后裔！你呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_FIRSTGREETING_3">
+         <Text>欢迎，陌生人！我是亚历山大，这片土地的统治者。我在寻找强有力的盟友或者为我的刀刃求得一位称职的敌人。我想知道，你是哪一种？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_1">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_2">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_3">
+         <Text>下次见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_4">
+         <Text>赶紧滚吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GOODBYE_5">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_1">
+         <Text>欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_2">
+         <Text>你好！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_3">
+         <Text>向你致敬。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_4">
+         <Text>噢，是你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_5">
+         <Text>嗯？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_GREETING_6">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_1">
+         <Text>让我听听看。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_2">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_3">
+         <Text>继续讲。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_4">
+         <Text>我正在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_5">
+         <Text>啊？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_6">
+         <Text>你说什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_7">
+         <Text>然后呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LETSHEARIT_8">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_1">
+         <Text>我向你暂时的胜利表示祝贺。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_LOSEWAR_2">
+         <Text>我必须为你那让人难忘的胜利祝贺。你用你的勇敢给伟大的希腊上了一课！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_1">
+         <Text>世界如此之大，而我们还没有成为一方土地的霸主，这难道不值得忧虑吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_QUOTE_2">
+         <Text>天无二日，地无二主。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_1">
+         <Text>你以为我是傻瓜吗?我的数学师承亚里士多德本人。你的条件必须再优厚一些！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_2">
+         <Text>还不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须表现的再好些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_ANGRY_4">
+         <Text>差不多了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_1">
+         <Text>我也许算是年轻，朋友，但是我既不轻信于人，也不愚昧可欺。你能再费心改一下你的价码吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这是你能提出的最优厚待遇了吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_3">
+         <Text>我们就快达成共识了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_HAPPY_4">
+         <Text>差不多了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>你的提议似乎有些侮辱人。我建议你修改一下或者撤销它。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>还能再好些吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>还不算太好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>差不多了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_ANGRY">
+         <Text>你的提议简直是岂有此理。要知道这是对我的侮辱——也是对希腊的侮辱。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_HAPPY">
+         <Text>谢谢你的好意，但是不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_NO_NEUTRAL">
+         <Text>我没兴趣。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_ANGRY">
+         <Text>我同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_HAPPY">
+         <Text>好极了。成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADE_YES_NEUTRAL">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_ANGRY">
+         <Text>这是我的提议。拒绝它的话你就得小心点儿。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_HAPPY">
+         <Text>我的朋友，你觉得这还算公平合理吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRADEREQUEST_NEUTRAL">
+         <Text>我相信这对我们双方都有好处。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_ANGRY">
+         <Text>你这蛆虫！你忘了你是在跟一位国王，众神之子说话吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_HAPPY">
+         <Text>尽管我对你极为喜爱，但我必须拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_NO_NEUTRAL">
+         <Text>哈，哈，哈！你一定在对我开玩笑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_ANGRY">
+         <Text>好吧。看起来我别无选择了。但是总有一天你会为此付出代价的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_HAPPY">
+         <Text>当然了——拣你喜欢的拿吧！我可是很慷慨的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_TRIBUTE_YES_NEUTRAL">
+         <Text>很好。趁你还能享用的时候好好尽兴吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_1">
+         <Text>没问题。我们一准备好就来拿。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_2">
+         <Text>多么让人失望啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_3">
+         <Text>真是太让人失望了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_4">
+         <Text>真的吗?我真佩服你那愚蠢盲目的勇气。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_5">
+         <Text>你真是蠢的无可救药了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WARBLUFF_6">
+         <Text>蠢货！你毕生都会对此感到后悔的，我向你发誓！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_1">
+         <Text>这很有趣。什么时候我们再来一遍吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_ALEXANDER_WINWAR_2">
+         <Text>对于一个野蛮人来说——你已经打的很好了。诗人会为我们的斗争叙写史诗的！</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

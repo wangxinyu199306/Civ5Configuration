@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TITLE">
+         <Text>征服胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CONQUEST_TEXT">
+         <Text>你已成功地在战场上征服了你所有的敌人！你击溃了他们的军队并占领了他们的城市！人们会永远记得你光荣的胜利！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TITLE">
+         <Text>间接征服胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_ALTCONQUEST_TEXT">
+         <Text>大地因战争而动荡不安。多少伟大而强盛的文明已经陷落，然而您幸存下来——并赢得了胜利！世界将长久地记住您胜利的荣光！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TITLE">
+         <Text>科技胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_SCIENCE_TEXT">
+         <Text>您通过对科学的探求掌握而达成了胜利！您征服了神秘的大自然并引领您的子民向无畏的新世界航行！您的成功将如渺渺苍穹闪耀的群星一般长久地为人们铭记！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TITLE">
+         <Text>外交胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DIPLOMATIC_TEXT">
+         <Text>您通过外交的艺术成功地制掣了您的众位对手！您的胸中丘壑与足智多谋为您赢得了众多挚友——并使您的敌人四分五裂，疑神疑鬼！您以九五之尊将和平重新带回了这个羸弱的世界，您将永远因此而被铭记！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TITLE">
+         <Text>文化胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_CULTURE_TEXT">
+         <Text>您籍由您文化的彪炳之力达成了胜利。您的文明之伟大——纪念物的宏伟壮丽及其艺术家的巧夺天工——使世界为之一振！诗人们对您的赞颂将恒传久远，就如美永远抚慰着疲惫的心灵。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TITLE">
+         <Text>失败</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_LOSS_TEXT">
+         <Text>您失败了。您的文明已任其众多对手鱼肉宰割。但您的人民并不绝望，因为他们知道某一天您将归来——并引领他们朝着胜利前进！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EXTENDED_GAME_YES">
+         <Text>等等！再来……一……回合……</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EXTENDED_GAME_DEMO">
+         <Text>购买完整版</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_TEXT">
+         <Text>你伟大而强力的文明正在良好的发展，但是你的时间已经到了终点。你的人民并没有绝望，因为他们知道总有一天你会归来——并带领他们走向胜利！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIV5_VICTORY_DEMO_BULLET_TEXT">
+         <Text>[ICON_BULLET]体验完整的文明5，体验完整的游戏。[NEWLINE][NEWLINE][ICON_BULLET]带领18种原始文明直到太空时代。[NEWLINE][NEWLINE][ICON_BULLET]下载独有文件和mods，并和世界各地的玩家一起竞技。[NEWLINE][NEWLINE][ICON_BULLET]对于你来说文明到底意味着什么？</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

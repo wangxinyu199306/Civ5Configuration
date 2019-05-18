@@ -1,0 +1,1043 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_EUPANEL_SUPPORT_DMG">
+         <Text>支援伤害: ~{1_Num}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_CITIES">
+         <Text>对城市加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_CITIES_PENALTY">
+         <Text>对城市惩罚</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_OVER_RIVER">
+         <Text>渡河攻击</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_AMPHIBIOUS_ATTACK">
+         <Text>两栖作战</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_GG_NEAR">
+         <Text>在大军事家附近</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_REVERSE_GG_NEAR">
+         <Text>接敌战舞</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_IMPROVEMENT_NEAR">
+         <Text>在战斗加成建筑附近</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_POLICY_ATTACK_BONUS">
+         <Text>（{1_Num}）次先发打击奖励</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_FLANKING_BONUS">
+         <Text>侧翼攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_EXTRA_PERCENT">
+         <Text>战斗加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_FIGHT_AT_HOME_BONUS">
+         <Text>友方领地加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_IN_FRIEND_LANDS">
+         <Text>攻入友方领地</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_OUTSIDE_HOME_BONUS">
+         <Text>非友方领地加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_EMPIRE_UNHAPPY_PENALTY">
+         <Text>[ICON_HAPPINESS_4]非常不满</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_STRATEGIC_RESOURCE">
+         <Text>战略资源处罚</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ADJACENT_FRIEND_UNIT_BONUS">
+         <Text>邻近友方部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_MOD_BONUS">
+         <Text>进攻加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_CLASS">
+         <Text>对{1_UnitType}加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_DOMAIN">
+         <Text>对领地加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_FORT_UNITS">
+         <Text>对处于防御状态的部队加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_VS_WOUND_UNITS">
+         <Text>对受伤部队伤害加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_HILL_ATTACK_BONUS">
+         <Text>丘陵攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_BONUS">
+         <Text>开阔地形攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_RANGE_BONUS">
+         <Text>开阔地形远程攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ROUGH_TERRAIN_BONUS">
+         <Text>崎岖地形攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ROUGH_TERRAIN_RANGED_BONUS">
+         <Text>崎岖地形远程攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ATTACK_INTO_BONUS">
+         <Text>攻入{1_TerrainType}加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_VS_BARBARIANS_BONUS">
+         <Text>对野蛮人攻击加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_GARRISONED_CITY_RANGE_BONUS">
+         <Text>驻防单位加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_UNIT_YOUR_APPROXIMATE_DAMAGE">
+         <Text>造成的近似伤害:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_APPROXIMATE_DAMAGE">
+         <Text>:造成的近似伤害</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_UNIT_STRENGTH">
+         <Text>战斗力总和</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_UNIT_YOUR_STRENGTH">
+         <Text>[ICON_STRENGTH]你的战斗力:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_UNIT_THEIR_STRENGTH">
+         <Text>:他们的战斗力[ICON_STRENGTH]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_TERRAIN_MODIFIER">
+         <Text>地形修正</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK_MODIFIER">
+         <Text>远距离攻击修正值</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_FORTIFICATION_BONUS">
+         <Text>防御状态加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_DEFENSE_BONUS">
+         <Text>防御加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_HILL_DEFENSE_BONUS">
+         <Text>丘陵防御加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_OPEN_TERRAIN_DEF_BONUS">
+         <Text>开阔地形防御加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_ROUGH_TERRAIN_DEF_BONUS">
+         <Text>崎岖地形防御加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_DEFENSE_TERRAIN">
+         <Text>在{1_TerrainType}有防御加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_GOLDEN_AGE">
+         <Text>黄金时期加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_CITY_STATE">
+         <Text>城邦加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_BONUS_RELIGIOUS_BELIEF">
+         <Text>宗教信仰加成</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MY_COMBAT_INFO">
+         <Text>你的战斗信息！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_THEIR_COMBAT_INFO">
+         <Text>他们的战斗信息！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_SAFE_ATTACK">
+         <Text>无损打击</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_RISKY_ATTACK">
+         <Text>有损打击</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_TOTAL_VICTORY">
+         <Text>史诗大捷</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MAJOR_VICTORY">
+         <Text>马到成功</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MINOR_VICTORY">
+         <Text>偶尔小胜</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MINOR_DEFEAT">
+         <Text>略处下风</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MAJOR_DEFEAT">
+         <Text>必败无疑</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_TOTAL_DEFEAT">
+         <Text>一溃千里</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_STALEMATE">
+         <Text>不分轩轾</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_MOVEMENT">
+         <Text>移动</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_LOWER_STRENGTH">
+         <Text>战斗力</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_RANGED_ATTACK">
+         <Text>远程攻击</Text>
+         </Row>
+		<Row Tag="TXT_KEY_EUPANEL_CURRENT_STATUS">
+         <Text>当前状态</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_EMBARKED">
+         <Text>（在船上）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_MIL_UNIT_STRENGTH">
+         <Text>{1_CivName}（{2_Player}），{3_Num}[ICON_STRENGTH]，{4_Num}HP{5_Num}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_CIV">
+         <Text>{@1_CivAdjective}{@2_UnitName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_UNIT_DESCRIPTION_PLAYER">
+         <Text>{1_PlayerName}:{2_UnitName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_UNIT_HP">
+         <Text>{1_Num}生命</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_OWNED_CIV">
+         <Text>地格由{1_CivName:textkey}控制</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_OWNED_PLAYER">
+         <Text>地格由{1_PlayerName}控制</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_FRESH_WATER">
+         <Text>淡水</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_REQUIRES_TECH_TO_USE">
+         <Text>[COLOR_WARNING_TEXT]（需要{@1_TechName}使用）[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_REQUIRES_TECH">
+         <Text>[COLOR_WARNING_TEXT]（需要{@1_TechName}）[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_PILLAGED">
+         <Text>（掠夺！）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_TRADE_ROUTE">
+         <Text>交易路线</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_MOUNTAIN">
+         <Text>山脉</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_HILL">
+         <Text>丘陵</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_LAKE">
+         <Text>湖泊</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_OCEAN">
+         <Text>海洋</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PLOTROLL_RIVER">
+         <Text>河流</Text>
+         </Row>
+		<Row Tag="TXT_KEY_OUTPUT">
+         <Text>产出</Text>
+         </Row>
+		<Row Tag="TXT_KEY_RESOURCE">
+         <Text>资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT">
+         <Text>设施</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_OF">
+         <Text>{2_CityName}的{1_CivAdjective:textkey}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_STATE_BARB_QUEST_SHORT">
+         <Text>城邦任务</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_STATE_BARB_QUEST_LONG">
+         <Text>{1_CivName:textkey}城邦想要你摧毁在该地格驻扎的野蛮人。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_HEALTH">
+         <Text>健康</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_RECOMMENDED">
+         <Text>建议:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_REPAIR_TILE">
+         <Text>修复地格</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_REPAIR_TILE_3">
+         <Text>修复地格（3）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED">
+         <Text>部队晋升！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_PROMOTED_TT">
+         <Text>显示你的部队可以选择的晋升。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_NAME">
+         <Text>部队名称</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_CYCLELEFT">
+         <Text>循环到下一个本回合尚未收到指令的部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_CYCLERIGHT">
+         <Text>循环到上一个本回合尚未收到指令的部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_MOVEMENT">
+         <Text>移动</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_MOVEMENT_TT">
+         <Text>一回合内部队可以移动的地格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT">
+         <Text>射程</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_RANGEMOVEMENT_TT">
+         <Text>一回合内部队可以飞过的地格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_NO_MOVES">
+         <Text>部队无法移动</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_STRENGTH">
+         <Text>战斗力</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_STRENGTH_TT">
+         <Text>这表明了部队的战斗能力。这个数值越高，部队在战斗中的表现越好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK">
+         <Text>远程攻击</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_RANGED_ATTACK_TT">
+         <Text>这表明了部队的远程战斗能力。该数值越高，部队在战斗中表现越好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_MAY_MOVE">
+         <Text>你的部队该回合还可以移动{1_Num}格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_UNIT_MAY_STRIKE_REBASE">
+         <Text>你的部队可以进攻{1_Num}格内的目标或者重新部署到{2_Num}格内的位置上。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_SET_HITPOINTS_TT">
+         <Text>{1_Num}/{2_Num}生命值</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UPANEL_CLICK_TO_SELECT">
+         <Text>[NEWLINE][COLOR_YELLOW]点击选择该部队。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UN_VOTES_TO_WIN">
+         <Text>需要联合国投票胜利</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_NONE">
+         <Text>无覆盖</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_CULTURE">
+         <Text>政治地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_PASSABLE_TERRAIN">
+         <Text>可通过的地形</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_UNIT_CULTURE">
+         <Text>部队拥有者</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_UNIT_TYPE">
+         <Text>部队类型</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_UNIT_DOMAIN">
+         <Text>部队领域</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_UNIT_COMBAT_TYPE">
+         <Text>部队战斗类型</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_RESOURCES">
+         <Text>资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_OVERLAY_TRADE_ROUTES">
+         <Text>贸易路线</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_ICONS_ALL">
+         <Text>全部</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_ICONS_NONE">
+         <Text>无</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_ICONS_UNITS">
+         <Text>部队</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_ICONS_RESOURCES">
+         <Text>资源</Text>
+         </Row>
+		<Row Tag="TXT_KEY_SV_ICONS_IMPROVEMENTS">
+         <Text>设施</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_CHOOSE">
+         <Text>改变信息面板</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_NONE">
+         <Text>关闭</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_DIPLO">
+         <Text>外交信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_UNIT">
+         <Text>部队列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_CITY">
+         <Text>城市列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_IC_RESEARCH">
+         <Text>研究信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_RETURN">
+         <Text>返回</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_SCREEN_EXIT_TOOLTIP">
+         <Text>退出城市界面回到世界地图。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_HELP_CAPS">
+         <Text>帮助</Text>
+         </Row>
+		<Row Tag="TXT_KEY_HELP">
+         <Text>帮助</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_TOOLTIP">
+         <Text>打开文明百科，里面有对各种游戏元素的解释。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MENU_CAPS">
+         <Text>菜单</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MENU">
+         <Text>菜单</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MENU_TOOLTIP">
+         <Text>弹出游戏菜单，可以存储游戏或是退出到主菜单等等。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_NO_SCIENCE">
+         <Text>没有科技！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GOLDEN_AGE_ANNOUNCE">
+         <Text>黄金时期！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE">
+         <Text>帝国产出了{1_Num}[ICON_RESEARCH]科研点数投入到当前的研究项目中。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_CITIES">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR][ICON_RESEARCH]来自城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_MINORS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR][ICON_RESEARCH]来自城邦。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_HAPPINESS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR][ICON_RESEARCH]来自额外的快乐。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_RESEARCH_AGREEMENTS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR][ICON_RESEARCH]来自和其他玩家的研究协定。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_SCIENCE_FROM_BUDGET_DEFICIT">
+         <Text>[ICON_BULLET][COLOR_NEGATIVE_TEXT]{1_Num}[ICON_RESEARCH]来自[ICON_GOLD]预算赤字！[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_AVAILABLE_GOLD">
+         <Text>共有{1_Num}[ICON_GOLD]金钱可供花费。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_TOTAL_INCOME">
+         <Text>占总收入的{1_Num}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CITY_OUTPUT">
+         <Text>{1_Num}来自所有城市产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_TR">
+         <Text>{1_Num}来自你的城市和你的[ICON_CAPITAL]首都之间的[ICON_CONNECTED]贸易路线。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_FROM_OTHERS">
+         <Text>{1_Num}来自其他文明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_TOTAL_EXPENSES">
+         <Text>占总花费的{1_Num}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNIT_MAINT">
+         <Text>{1_Num}花费在部队维护费上。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_UNIT_SUPPLY">
+         <Text>{1_Num}花费在供给境外部队上。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_BUILDING_MAINT">
+         <Text>{1_Num}花费在建筑维护费上。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_TILE_MAINT">
+         <Text>{1_Num}花费在地格设施维护费上。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_TO_OTHERS">
+         <Text>{1_Num}给其他文明。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_LOSING_SCIENCE_FROM_DEFICIT">
+         <Text>那些还没有支付的花费将会从你的科研比例中扣除！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLD_EXPLANATION">
+         <Text>有了[ICON_GOLD]金钱你可以在你的城市中购买土地，部队和建筑，或是当做礼物送给城邦，让他们更喜欢你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_TOTAL_HAPPINESS">
+         <Text>帝国的[ICON_HAPPINESS_1]总快乐度等级为{1_Num}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_TOTAL_UNHAPPINESS">
+         <Text>{1_Icon}帝国的不满度是{2_Num}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_SUPER_UNHAPPY">
+         <Text>由于 [ICON_HAPPINESS_4] 不满度达到20，有人造反了！每几回合，您的领土中就会出现一些叛逆者，直到您控制住局面！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_VERY_UNHAPPY">
+         <Text>由于 [ICON_HAPPINESS_4] 不满度达到10，帝国 [ICON_HAPPINESS_4] 非常不满！城市不再发展，无法训练殖民者，[ICON_PRODUCTION] 产量剧减，军队力量被削弱！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_EMPIRE_UNHAPPY">
+         <Text>当帝国处于[ICON_HAPPINESS_3]不满状态时城市只会以四分之一的速度发展！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_SOURCES">
+         <Text>来自各种资源的共有{1_Num}[ICON_HAPPINESS_1]快乐度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_FROM_RESOURCES">
+         <Text>{1_Num}来自至少拥有一个以下种类的奢侈资源:</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_EACH_RESOURCE">
+         <Text>{1_Num}来自{2_ResourceIcon}{3_ResourceName:textkey}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_RESOURCE_VARIETY">
+         <Text>{1_Num}因为拥有多种奢侈资源。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_EXTRA_PER_RESOURCE">
+         <Text>{1_Num}每个奢侈资源带来的额外快乐度（{2_NumResources}）。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_OTHER_SOURCES">
+         <Text>{1_Num}来自其他资源。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_POLICIES">
+         <Text>{1_Num}来自政策。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_BUILDINGS">
+         <Text>{1_Num}来自建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_GARRISONED_UNITS">
+         <Text>{1_Num}来自驻防部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_CONNECTED_CITIES">
+         <Text>{1_Num}来自城市[ICON_CONNECTED]连接到[ICON_CAPITAL]首都。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_STATE_RELIGION">
+         <Text>{1_Num}来自宗教信仰。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_NATURAL_WONDERS">
+         <Text>{1_Num}来自自然奇观的发现。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_CITY_COUNT">
+         <Text>{1_Num}来自城市数量。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_CITY_STATE_FRIENDSHIP">
+         <Text>{1_Num}来自对城邦的[ICON_INFLUENCE]影响力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_DIFFICULTY_LEVEL">
+         <Text>{1_Num}来自难度等级。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_TOTAL">
+         <Text>来自各种来源总共{1_Num}[ICON_HAPPINESS_4]不满度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_CITY_COUNT">
+         <Text>{1_Num}来自城市数量。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_CAPTURED_CITY_COUNT">
+         <Text>{1_Num}来自[ICON_OCCUPIED]被占据的城市数量。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_POPULATION">
+         <Text>{1_Num}来自[ICON_CITIZEN]人口。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_SPECIALISTS">
+         <Text>{1_Num : number "#。##"}被 [ICON_CITIZEN] 专家研制成功。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_PUPPET_CITIES">
+         <Text>{1_Num : number "#。##"}产生于 [ICON_CITIZEN] 人口于 [ICON_PUPPET] 傀儡城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_OCCUPIED_POPULATION">
+         <Text>{1_Num}来自[ICON_OCCUPIED]被占据城市中的[ICON_CITIZEN]人。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_UNHAPPINESS_UNITS">
+         <Text>{1_Num}来自部队。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_HAPPINESS_EXPLANATION">
+         <Text>需要[ICON_HAPPINESS_1]快乐度才能维持城市发展。它是用来抵消[ICON_HAPPINESS_4]不满的负面作用的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_NOW">
+         <Text>帝国将在接下来{1_Num}轮内处于[ICON_GOLDEN_AGE]黄金时期！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_PROGRESS">
+         <Text>[ICON_BULLET]{1_NumCurrent}/{2_NumNeeded}到达下一次[ICON_GOLDEN_AGE]黄金时期的进度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_ADDITION">
+         <Text>增加[ICON_BULLET]{1_Num}来自额外的[ICON_HAPPINESS_1]快乐度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_LOSS">
+         <Text>损失[ICON_BULLET]{1_Num}来自[ICON_HAPPINESS_4]不满度！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_GOLDEN_AGE_EFFECT">
+         <Text>在[ICON_GOLDEN_AGE] 黄金时代期间，你的领土中每个地格都至少能多生产1 [ICON_GOLD] 黄金，城市收入G [ICON_PRODUCTION] 增加20%。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_ACCUMULATED">
+         <Text>全国能够累积{1_Num}[ICON_CULTURE]文化点数。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_NEXT_POLICY">
+         <Text>还需要{1_NumNeeded}[ICON_CULTURE]文化点数来采纳新的政策。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FOR_FREE">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR]免费。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_CITIES">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR]城市生产。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_HAPPINESS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR]来自额外[ICON_HAPPINESS_1]快乐度。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_TRAITS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR] from Traits.</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_FROM_MINORS">
+         <Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+{1_Num}[ENDCOLOR]来自城邦。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_CULTURE_CITY_COST">
+         <Text>你所拥有的每个城市都会提升政策消耗{1_Num}%！如果你想要通过文化来发展的话，就不要过度扩张！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_NO_RESOURCES_DISCOVERED">
+         <Text>尚未发现任何资源！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_RESOURCE_NONE">
+         <Text>未连接</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_RESOURCE_INFO">
+         <Text>[COLOR_POSITIVE_TEXT]{1_Num}总计[ENDCOLOR]，[COLOR_WARNING_TEXT]{2_Num}使用[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_TP_TURN_COUNTER">
+         <Text>第{1_Nim}回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CONNECTED">
+         <Text>城市和[ICON_CAPITAL]首都之间有[ICON_CONNECTED]贸易路线连接！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_BLOCKADED">
+         <Text>城市被该地格部队[ICON_BLOCKADED]封锁了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_BURNING">
+         <Text>城市将会在{1_Num}回合内被[ICON_RAZING]焚毁！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_RESISTANCE">
+         <Text>城市将会在{1_Num}轮内处于[ICON_RESISTANCE]抵抗状态！在抵抗状态下，该城市不能做任何事。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_PUPPET">
+         <Text>城市[ICON_PUPPET]沦为附庸！在这种状态下你不能为它做出决策。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_PUPPET_OTHER">
+         <Text>这是 [ICON_PUPPET] 傀儡城！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_OCCUPIED">
+         <Text>城市[ICON_OCCUPIED]被占领了！它将会产生额外的[ICON_HAPPINESS_4]不满度直到法院建成。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_ANNEX_TT">
+         <Text>点击吞并这座城市。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_STOPPED_GROWING_TT">
+         <Text>{1_CityName}已经停止发展，将会维持{2_Num}规模。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_STARVING_TT">
+         <Text>{1_CityName}[COLOR_WARNING_TEXT]正在发生饥荒！[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_WILL_GROW_TT">
+         <Text>在[COLOR_GREEN]{4_Num}[ENDCOLOR]回合内，{1_CityName}将会从[COLOR_YELLOW]{2_Num}[ENDCOLOR]规模增长到[COLOR_YELLOW]{3_Num}[ENDCOLOR]规模。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_NOT_PRODUCING">
+         <Text>{1_CityName}目前不再生产任何东西。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CURRENTLY_PRODUCING_99PLUS_TT">
+         <Text>{1_CityName}生产{@2_BldgName}需要超过99回合。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_CURRENTLY_PRODUCING_TT">
+         <Text>{1_CityName}生产{@2_BldgName}需要{3_Num}回合。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_ENTER_CITY_SCREEN">
+         <Text>[COLOR_YELLOW]点击这里进入城市界面。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITY_MAKE_RANGED_ATTACK">
+         <Text>[COLOR_YELLOW]点击这里让城市进行远程攻击。[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS">
+         <Text>地图选项</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_UNIT_FLAGS">
+         <Text>部队标志</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_UNIT_FLAGS_TT">
+         <Text>隐藏所有部队标志。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_HEX_GRID">
+         <Text>六边形网格</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_HEX_GRID_TT">
+         <Text>显示网格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_TRADE_ROUTES">
+         <Text>Trade Routes</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_TRADE_ROUTES_TT">
+         <Text>Display the trade routes.</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_YIELD_ICONS">
+         <Text>产出标志</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_YIELD_ICONS_TT">
+         <Text>显示所有产出标志。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_RESOURCE_ICONS">
+         <Text>资源标志</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_RESOURCE_ICONS_TT">
+         <Text>显示所有资源标志。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_RECOMMENDATIONS">
+         <Text>隐藏建议</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_OPTIONS_RECOMMENDATIONS_TT">
+         <Text>隐藏专家建议</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITIZEN_ICON_TT">
+         <Text>市民标志</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED_TT">
+         <Text>将该资源连接到你的贸易网络将会在城市里开始"我们爱国王日"，能够提升[ICON_FOOD]产出！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_FULFILLED_TT">
+         <Text>该城市处于"我们爱国王日"中，能够提升[ICON_FOOD]产出！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_TT">
+         <Text>燃烧吧，宝贝，燃烧吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_DISABLED_BECAUSE_CAPITAL_TT">
+         <Text>不能摧毁曾经是首都的城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RAZE_BUTTON_TEXT">
+         <Text>摧毁城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_TOGGLE_FOCUS_TT">
+         <Text>切换城市重点</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TT">
+         <Text>暂停摧毁城市的进度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNRAZE_BUTTON_TEXT">
+         <Text>停止摧毁城市</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FOOD_TEXT">
+         <Text>侧重[ICON_FOOD]食物</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_PROD_TEXT">
+         <Text>侧重[ICON_PRODUCTION]产能</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GOLD_TEXT">
+         <Text>侧重[ICON_GOLD]金钱</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_RESEARCH_TEXT">
+         <Text>侧重[ICON_RESEARCH]科技</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_CULTURE_TEXT">
+         <Text>侧重[ICON_CULTURE]文化</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TEXT">
+         <Text>侧重[ICON_GREAT_PEOPLE]伟人</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_FOOD_TT">
+         <Text>点击这里设置该城市侧重[ICON_FOOD]食物的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_PROD_TT">
+         <Text>点击这里设置该城市侧重[ICON_PRODUCTION]产能的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GOLD_TT">
+         <Text>点击这里设置该城市侧重[ICON_GOLD]金钱的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_RESEARCH_TT">
+         <Text>点击这里设置该城市侧重[ICON_RESEARCH]科技的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_CULTURE_TT">
+         <Text>点击这里设置该城市侧重[ICON_CULTURE]文化的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_GREAT_PERSON_TT">
+         <Text>点击这里设置该城市侧重[ICON_GREAT_PEOPLE]伟人的产出。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TT">
+         <Text>点击这里设置该城市为默认的市民分配。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BALANCED_TEXT">
+         <Text>默认重点</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_RESET_TEXT">
+         <Text>重设地格</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_RESET_TT">
+         <Text>点击这里移除所有已经被锁定的地格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_AVOID_GROWTH_TEXT">
+         <Text>避免增长</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_AVOID_GROWTH_TT">
+         <Text>点击这里让城市尝试保持当前人口。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BUTTON_C_TEXT">
+         <Text>关闭城市重点</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BUTTON_TT">
+         <Text>管理城市重点</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOCUS_BUTTON_O_TEXT">
+         <Text>打开城市重点</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PLACEHOLDER_TT">
+         <Text>占位符</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOOD_TEXT">
+         <Text>食物</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_EMPTY_SLOT">
+         <Text>空的专家槽</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNEMPLOYED_TEXT">
+         <Text>未雇佣的市民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNEMPLOYED_TOOLTIP">
+         <Text>点击这里让地方官员重新分配人力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PERTURN_TEXT">
+         <Text>+{1_perTurn:number "#。##"}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PERTURN_TEXT_NEGATIVE">
+         <Text>[COLOR_WARNING_TEXT]{1_perTurn:number "#。##"}[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_OFF">
+         <Text>关</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_Q_UP_TEXT">
+         <Text>在生产队列中向上移动。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_Q_DOWN_TEXT">
+         <Text>在生产队列中向下移动。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_Q_X_TEXT">
+         <Text>从生产队列中移除。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITYINFO_TEXT">
+         <Text>城市信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_TURNS_TILL_TILE_TEXT">
+         <Text>距离边境增长还有{1_Turns:number}回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_STARVATION_TEXT">
+         <Text>[COLOR_WARNING_TEXT]饥荒[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_STAGNATION_TEXT">
+         <Text>[COLOR_YELLOW]饥荒[ENDCOLOR]</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_TURNS_TILL_CITIZEN_TEXT">
+         <Text>距离新市民诞生还有{1_Turns:number}回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_O_TT">
+         <Text>打开生产队列</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_C_TT">
+         <Text>关闭生产队列</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_C">
+         <Text>隐藏队列</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_O">
+         <Text>显示队列</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PROD_METER_TT">
+         <Text>右击查看更多信息</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CHANGE_PROD_TT">
+         <Text>改变当前城市建设的项目。只能同时生产一个项目。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CHANGE_PROD">
+         <Text>改变产出</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CHOOSE_PROD">
+         <Text>选择产出</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CHOOSE_PROD_TT">
+         <Text>选择当前城市建设的项目。同时只能生产一个项目。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_PROD">
+         <Text>加入队列</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_PROD_TT">
+         <Text>在生产队列中加入额外的项目（最多六个）。同时只能生产一个项目。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_TT">
+         <Text>在你拥有足够的[ICON_GOLD]金钱之后，可以立即购买部队或建筑。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PRODUCE_BUTTON">
+         <Text>生产</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PURCHASE_BUTTON">
+         <Text>购买</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_OTHER">
+         <Text>其他</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TT">
+         <Text>返回</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PRODUCE_WEALTH">
+         <Text>生产金钱</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_PRODUCE_RESEARCH">
+         <Text>生产科研点数</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BUYPLOT_TT">
+         <Text>在你拥有足够的[ICON_GOLD]金钱之后，你可以购买这些高亮的地格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_SPECIALISTCONTROL_TT">
+         <Text>切换手动或者自动生产专业人员。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_MAINTENANCE">
+         <Text>维护费</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITIZEN_ALLOCATION">
+         <Text>管理市民</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_EACH">
+         <Text>每个</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_QUEUE_SELECTION">
+         <Text>队列选择</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GG_PROGRGRESS">
+         <Text>大军事家进度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GP_PROGRGRESS">
+         <Text>伟人进度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RETURN_TO_MAP">
+         <Text>回到地图</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BUY_PLOT_TEXT">
+         <Text>购买地块</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BUILDING_LIST">
+         <Text>建筑列表</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_MANUAL_SPEC_CONTROL">
+         <Text>手动专业人员控制</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CLAIM_NEW_LAND">
+         <Text>以{1_Num}[ICON_GOLD]金钱购买这块土地。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOOD_IN_TURNS">
+         <Text>{1_Num}[ICON_FOOD]/回合，{2_Num}回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FOOD_IN_TURNS_TT">
+         <Text>在{1_Num}回合内你的城市将会发展并且诞生额外的市民，你将可以从你城市附近的一个额外地格中收集资源。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BUY_TILE_TT">
+         <Text>花费[ICON_GOLD]金钱来资助你的市民在靠近边境的地格定居。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BUY_TILE">
+         <Text>购买地格</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_NEED_MONEY_BUY_TILE">
+         <Text>你需要{1_Num}[ICON_GOLD]金钱来购买这块土地。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_NEED_MONEY_BUY_TILE_TT">
+         <Text>在你有了足够的[ICON_GOLD]金钱这么做时，那些你可以资助市民定居的地格将会以白色高亮显示。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_RESOURCE_DEMANDED">
+         <Text>需要资源:{1_ResourceName}</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITY_COMB_STRENGTH_TT">
+         <Text>城市战斗力</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_WLTKD_COUNTER">
+         <Text>我们爱国王日！（{1_Num}）</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_CITY_CENTER">
+         <Text>城市中心是免费自动运转的。点击这里让地方官员重新分配人力。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_FORCED_WORK_TILE">
+         <Text>你已经选择了在此地格进行工作。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_GUVNA_WORK_TILE">
+         <Text>你的地方官员已经选择了该地格进行工作。你可以点击这里来取消。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_NUTHA_CITY_TILE">
+         <Text>该地格已经被你的国家的其他城市占据了。你可以点击这里来在其上工作，但是其他城市就不能再在上面工作了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_BLOCKADED_CITY_TILE">
+         <Text>该地格被敌人封锁。你必须移除封锁的敌人才能在上面工作。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_ENEMY_UNIT_CITY_TILE">
+         <Text>该地格被敌人占据。你必须移除其中的敌人才能在上面工作。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_CITYVIEW_UNWORKED_CITY_TILE">
+         <Text>该地格目前尚未建造。你可以点击在上面工作，但是这么做会取消某些电脑已经给你选择了的地格。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_PREREQ_TECH">
+         <Text>需要{1_TechName:textkey}（科技）才能修建{2_ImprovementName:textkey}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_BY_FEATURE">
+         <Text>需要{1_TechName:textkey}（科技）才能从地格清除掉{2_FeatureName:textkey}。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_BLOCKED_OUTSIDE_TERRITORY">
+         <Text>{TXT_KEY_GRAMMAR_UPPER_A_AN &lt;&lt;{@1_ImprovementName}}不能在你的领土之外建造。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_NUM_TURNS">
+         <Text>{1_Num}回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_CONNECTS_RESOURCE">
+         <Text>将会连接该地格的{1_Icon}[COLOR_POSITIVE_TEXT]{2_ResouceName:textkey}[ENDCOLOR]到你的贸易网络。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_BUILD_FEATURE_CLEARED">
+         <Text>该地格的{1_FeatureName:textkey}将会被移除</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ACPANEL_END_TURN">
+         <Text>结束回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UNIT_STATUS">
+         <Text>部队状态</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MOVES_LEFT">
+         <Text>剩余移动</Text>
+         </Row>
+		<Row Tag="TXT_KEY_UNIT_NAME">
+         <Text>部队名称</Text>
+         </Row>
+		<Row Tag="TXT_KEY_STATUS">
+         <Text>状态</Text>
+         </Row>
+		<Row Tag="TXT_KEY_NAME">
+         <Text>名称</Text>
+         </Row>
+		<Row Tag="TXT_KEY_DIPLOMACY_OVERVIEW">
+         <Text>外交概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_ECONOMIC_OVERVIEW">
+         <Text>经济概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_GENERAL_INFORMATION">
+         <Text>总体概况</Text>
+         </Row>
+		<Row Tag="TXT_KEY_HAPPINESS_AND_RESOURCES">
+         <Text>资源和快乐度</Text>
+         </Row>
+		<Row Tag="TXT_KEY_POPUP_CIVILIZATION">
+         <Text>文明</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MILITARY_OVERVIEW">
+         <Text>军事概览</Text>
+         </Row>
+		<Row Tag="TXT_KEY_POP_NOTIFICATION_LOG">
+         <Text>消息日志</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PROCESSING_TURN_FOR">
+         <Text>正在处理{1_CivilizationName}的回合</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PROCESSING_MINOR_CIVS">
+         <Text>正在处理回合中的城市状态</Text>
+         </Row>
+		<Row Tag="TXT_KEY_PROCESSING_TURN_FOR_UNMET_PLAYER">
+         <Text>正在为玩家{1_PlayerCount}处理回合</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

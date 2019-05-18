@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_MAP_AMER_TITLE">
+         <Text>美洲</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_AMER_HELP">
+         <Text>一幅巨大的地图从秘鲁南部延伸到美国北部。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

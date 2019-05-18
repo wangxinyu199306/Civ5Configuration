@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_2">
+         <Text>好吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_3">
+         <Text>没问题。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_4">
+         <Text>同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_5">
+         <Text>啊，非常好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_6">
+         <Text>我想只能这样了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_AGREE_SHORT_7">
+         <Text>太棒了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_ATTACKED_1">
+         <Text>胆子不小啊你?我们会把你们碾为齑粉！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_ATTACKED_2">
+         <Text>你这恶棍！我要把你那讨厌的脑袋高悬在我宫殿的墙头，让鸽子们饱餐一顿！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_ATTACKED_3">
+         <Text>蠢材！你一定会后悔的，我发誓！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_1">
+         <Text>你一次又一次地利用了我们的纯良本性，但不会有下次了！我们向你们宣战！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_2">
+         <Text>你的存在是对真主的亵渎。准备开战吧，卑微而又讨厌的野蛮人！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DECLAREWAR_3">
+         <Text>这世界没有你们会更美好——受死吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEFEATED_1">
+         <Text>我输了; 听凭你发落。虽败犹荣的哈里发将成为史诗的主角。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEFEATED_2">
+         <Text>一盏明灯在你手中熄灭了，它本可以继续为这世界指引美丽和文明的方向。希望你对此心满意足。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEFEATED_3">
+         <Text>你是赢家; 祝贺你。现在我的宫殿属于你了: 希望你能照顾好我的孔雀们。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_ANGRY">
+         <Text>你的存在让我很是不爽。我想试着仁慈些——当然是有代价的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_HAPPY">
+         <Text>我的老朋友——你不会在我们困难之际坐视不管吧？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DEMANDTRIBUTE_NEUTRAL">
+         <Text>如果你还想保持独立自主的地位，我劝你向我们呈上以下贡品。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_1">
+         <Text>不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_2">
+         <Text>绝对不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_4">
+         <Text>没门。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_5">
+         <Text>这是不可接受的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_6">
+         <Text>别和我开玩笑！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_DISAGREE_SHORT_7">
+         <Text>我是不是听错了？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_FIRSTGREETING_1">
+         <Text>欢迎你！我是阿拉伯的哈伦 拉希德。来吧-让我们一起来赞美我富丽堂皇的宫殿！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_FIRSTGREETING_2">
+         <Text>啊！一颗冉冉升起的新星。我是阿拉伯的哈伦 拉希德！我要写下一篇史诗来庆祝这历史性的会面 ！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_FIRSTGREETING_3">
+         <Text>欢迎你，陌生人！我是哈伦 拉希德，阿拉伯的统治者。来吧——和我说说你治下帝国的情况。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_1">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_2">
+         <Text>告辞。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_3">
+         <Text>再见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_4">
+         <Text>期待下次同你的会面。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_5">
+         <Text>我得去喂我的孔雀了。现在你可以走了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_6">
+         <Text>那就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GOODBYE_7">
+         <Text>我没理由在这继续待下去了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_1">
+         <Text>欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_2">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_3">
+         <Text>好啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_4">
+         <Text>愿真主保佑你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_5">
+         <Text>啊，是你啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_6">
+         <Text>怎么了？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_GREETING_7">
+         <Text>有什么事吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_1">
+         <Text>接着说。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_2">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_3">
+         <Text>我在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_4">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_5">
+         <Text>说到哪了？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_6">
+         <Text>还有呢？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LETSHEARIT_7">
+         <Text>说下去。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_LOSEWAR_1">
+         <Text>我喜欢你的宽宏大度。你会发现我们是懂得知恩图报的。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_ANGRY_1">
+         <Text>得了吧——你到底是个开明的统治者还是个吵着要糖的馋嘴小孩?出个更高的价吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这还不够好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_ANGRY_3">
+         <Text>再大方点。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_HAPPY_1">
+         <Text>就目前情况来看我很难接受你的出价，我的朋友; 再来点儿？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这就是最高的出价了吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_HAPPY_3">
+         <Text>还差那么一点儿…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>我们是世界上最好的商人，这你应该清楚。在我们身上你占不到便宜。不介意再把价码提高点吧？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>你能再把价码提高一点吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>这还远远不够。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>相当接近了哦…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_ANGRY">
+         <Text>你的智商还不如个小孩吗?你的出价真是让我忍无可忍。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_HAPPY">
+         <Text>什么都行，亲爱的朋友——任何东西！除了这个不行。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_NO_NEUTRAL">
+         <Text>我听错了吧?你喝醉了？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_YES_ANGRY">
+         <Text>你比你看上去要聪明些。成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_YES_HAPPY">
+         <Text>你的智慧和精明让我颇为惊讶。成交了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADE_YES_NEUTRAL">
+         <Text>这世界会因公平交易而越发美丽。成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADEREQUEST_ANGRY">
+         <Text>想做笔交易吗?要是你搞不懂也没关系，我的顾问会负责说明细节。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADEREQUEST_HAPPY">
+         <Text>做笔交易吧，朋友: 两国人民都会从中受益。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRADEREQUEST_NEUTRAL">
+         <Text>来吧——让我们来谈谈生意！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_ANGRY">
+         <Text>你这副既丑又蠢的尊容冒犯了我。快在我面前消失。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_HAPPY">
+         <Text>你这是要剜去我的心头肉啊，亲爱的朋友，对于你的要求我只能说抱歉了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_NO_NEUTRAL">
+         <Text>绝不！我们爱好和平，但我们会用生命来保卫我们的财富和尊严！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_YES_ANGRY">
+         <Text>行啊。强大的文明可以接济一下它贫弱的后辈。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_YES_HAPPY">
+         <Text>啊哈，没问题 ！像我这样富有的人自然会慷慨解囊了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_TRIBUTE_YES_NEUTRAL">
+         <Text>好吧。我相信你在未来的日子会记得我们的慷慨大方。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_1">
+         <Text>你这是玩火自焚。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_2">
+         <Text>好极了。下一次我可就不会这么客气了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_3">
+         <Text>真让人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_4">
+         <Text>真是让我大失所望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_5">
+         <Text>你确定?我相信你会为你的目光短浅付出血的代价。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WARBLUFF_6">
+         <Text>你简直愚不可及。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_HARUN_WINWAR_1">
+         <Text>世界的一切又恢复如常了。希望你能吸取教训。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

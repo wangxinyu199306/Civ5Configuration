@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_1">
+         <Text>很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_2">
+         <Text>好吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_3">
+         <Text>当然了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_4">
+         <Text>就这样。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_5">
+         <Text>噢，很好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_6">
+         <Text>我想我必须同意。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_AGREE_SHORT_7">
+         <Text>好极了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_1">
+         <Text>现在我应该摧毁你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_2">
+         <Text>好极了！我要让你的血流的像决堤的洪水一般泛滥！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_ATTACKED_3">
+         <Text>愚蠢！我会用你士兵的鲜血把这个世界淹没！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_1">
+         <Text>我用来进行私人祭祀的祭品快用完了。你的百姓也许正好可以用来给我当祭品——准备战争吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_2">
+         <Text>你让我愤怒！我要把你从地球上抹去——准备战争吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DECLAREWAR_3">
+         <Text>去死吧，死吧，死吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_1">
+         <Text>我的士兵已经被证明他们很没用并且很弱小——我很高兴你把他们都杀光了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_2">
+         <Text>怪物！你究竟是何方神圣竟能毁灭了我的伟大？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEFEATED_3">
+         <Text>尽管我尽力了，你还是击败了我。现在我想应该准备寻求和平了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_ANGRY">
+         <Text>我需要你的资源，快把它拿出来！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_HAPPY">
+         <Text>我需要这个——而你拥有它。不要让我失望，朋友！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DEMANDTRIBUTE_NEUTRAL">
+         <Text>给我我需要的一切否则我就毁了你！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_1">
+         <Text>不可能。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_2">
+         <Text>当然不。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_3">
+         <Text>我们拒绝。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_4">
+         <Text>当然不可能。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_5">
+         <Text>这无法接受。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_6">
+         <Text>你在开玩笑吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_DISAGREE_SHORT_7">
+         <Text>我请求你再说一遍？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_1">
+         <Text>欢迎，陌生人。对我的力量和威严感到敬畏吧！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_2">
+         <Text>在我面前的是谁?在我用来献祭的火把前跳动的另一颗心脏吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_3">
+         <Text>我是蒙特祖玛，阿兹特克帝国的皇帝！你是什么人？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_FIRSTGREETING_4">
+         <Text>站住！是谁胆敢出现在我令人敬畏的面前？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_1">
+         <Text>再会。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_2">
+         <Text>走开。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_3">
+         <Text>下次见。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_4">
+         <Text>现在离开这里。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_5">
+         <Text>就这样吧。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GOODBYE_6">
+         <Text>我们到此为止。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_1">
+         <Text>欢迎。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_2">
+         <Text>你好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_3">
+         <Text>向你致敬。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_4">
+         <Text>噢，是你。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_5">
+         <Text>嗯？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_6">
+         <Text>你想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_GREETING_7">
+         <Text>先等一会我去磨我献祭的刀。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_1">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_2">
+         <Text>继续讲下去。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_3">
+         <Text>我正在听。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_4">
+         <Text>什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_5">
+         <Text>你在说什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_6">
+         <Text>然后？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LETSHEARIT_7">
+         <Text>继续。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_LOSEWAR_1">
+         <Text>我的天啊！我要献祭一万人来弥补这个耻辱！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_1">
+         <Text>哈，哈，哈！还不够。再多给我一些，不然你毁灭的日子不远了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_2">
+         <Text>这还不够好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_ANGRY_3">
+         <Text>你必须做的更好些。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_1">
+         <Text>愚蠢！你敢让我们的友谊变了味道！你必须多给我一些！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_2">
+         <Text>这是你能做的最好结果了吗？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_HAPPY_3">
+         <Text>就快谈成了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_1">
+         <Text>不行！我需要更多，你听见了吗?更多！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_2">
+         <Text>你能不能给的再稍微多些？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_3">
+         <Text>这还不够好。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NEEDMORE_NEUTRAL_4">
+         <Text>快了…</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_ANGRY">
+         <Text>不。我宁愿用串子把我的内脏穿起来也不会接受你的提议！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_HAPPY">
+         <Text>谢谢你，但是不行。我是什么人物?不屑拥有你这些廉价货。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_NO_NEUTRAL">
+         <Text>你真是瞎了眼了！我在与之类似的事情上会做得好得多。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_ANGRY">
+         <Text>很好。现在在我忘记刚才和你做的交易并且将你去喂蜥蜴之前，赶紧将你那魔鬼般的身影从我眼中消失！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_HAPPY">
+         <Text>好极了！我会拿五十名俘虏来祭祀，庆祝我们的交易！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADE_YES_NEUTRAL">
+         <Text>好吧，好吧。就这样了。你还想要什么？</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_ANGRY">
+         <Text>接受这个协议提案不然你的百姓会感到很痛苦！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_HAPPY">
+         <Text>这是我的提议。如果你拒绝它们将会是很不友好的举动。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRADEREQUEST_NEUTRAL">
+         <Text>接受这个议案或者准备忍受拒绝的后果。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_ANGRY">
+         <Text>不！不！不！不！不！不！不！谁给我把斧头！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_HAPPY">
+         <Text>给我走开。我没时间和你这种愚蠢的人搭讪。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_NO_NEUTRAL">
+         <Text>你这个毫无价值的废物！我蔑视你那微不足道的请求！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_ANGRY">
+         <Text>很好。但是这并不会拯救你: 我会开始准备复仇的！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_HAPPY">
+         <Text>我很高兴我同意你那可怜的请求。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_TRIBUTE_YES_NEUTRAL">
+         <Text>不！不！不！等一下——我改主意了。成交。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_1">
+         <Text>你在玩一场危险的游戏。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_2">
+         <Text>很好。下次我绝不会这么客气了！</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_3">
+         <Text>多麽让人失望。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_4">
+         <Text>太让人失望了。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_5">
+         <Text>真的?我相信你不会为你那鼠目寸光的决定而感到后悔。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WARBLUFF_6">
+         <Text>你多麽愚蠢啊。</Text>
+         </Row>
+		<Row Tag="TXT_KEY_LEADER_MONTEZUMA_WINWAR_1">
+         <Text>在我们需要更多囚徒和祭品之前，保持和平吧！</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

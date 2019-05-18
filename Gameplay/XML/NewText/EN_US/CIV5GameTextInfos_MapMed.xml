@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_MAP_MED_TITLE">
+         <Text>地中海</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_MED_HELP">
+         <Text>包含整个地中海地区的大地图。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>

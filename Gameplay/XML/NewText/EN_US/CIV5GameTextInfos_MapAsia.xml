@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+     	<Language_en_US>
+		<Row Tag="TXT_KEY_MAP_ASIA_TITLE">
+         <Text>亚洲</Text>
+         </Row>
+		<Row Tag="TXT_KEY_MAP_ASIA_HELP">
+         <Text>喜马拉雅人统治着这个丛林密布的世界。</Text>
+         </Row>
+      </Language_en_US>
+</GameData>
