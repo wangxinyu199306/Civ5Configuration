@@ -9,6 +9,9 @@ Interface/
 UI/
 UI_Tablet/
 Expansion/
+Shared/
+StrategicView/
+Tutorial/
 
 #Files
 *.lua
@@ -18,6 +21,7 @@ Expansion/
 *.Civ5Pkg
 *.tga
 *.dll
+*.fxsxml
 
 #multimedia
 *.wav
@@ -25,4 +29,6 @@ Expansion/
 *.mp3
 *.wmv
 *.wma
-
+*.dds
+*.gr2
+*.jpg
